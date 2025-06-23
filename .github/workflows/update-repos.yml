@@ -1,8 +1,8 @@
-name: Update Repository List
+name: Update Repository List with Tags
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # Runs daily
+    - cron: '0 0 * * *'  # Daily
   workflow_dispatch:
 
 jobs:
@@ -11,16 +11,40 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      - name: Fetch Public Repos and Create JSON
+      - name: Install jq and curl
+        run: sudo apt-get update && sudo apt-get install -y jq curl
+
+      - name: Fetch Repos and Tags
         run: |
-          curl -s "https://api.github.com/users/${{ github.repository_owner }}/repos?per_page=100&type=public" \
-            | jq '[.[] | {name: .name, html_url: .html_url, description: .description}]' \
-            > _data/repos.json
+          USER="${{ github.repository_owner }}"
+          REPOS=$(curl -s "https://api.github.com/users/$USER/repos?per_page=100&type=public")
+
+          echo "[" > _data/repos.json
+          echo "$REPOS" | jq -c '.[]' | while read repo; do
+            NAME=$(echo "$repo" | jq -r '.name')
+            HTML_URL=$(echo "$repo" | jq -r '.html_url')
+            DESCRIPTION=$(echo "$repo" | jq -r '.description')
+
+            TAGS=$(curl -s "https://api.github.com/repos/$USER/$NAME/tags" | jq '[.[].name]')
+
+            jq -n \
+              --arg name "$NAME" \
+              --arg html_url "$HTML_URL" \
+              --arg description "$DESCRIPTION" \
+              --argjson tags "$TAGS" \
+              '{name: $name, html_url: $html_url, description: $description, tags: $tags}' >> _data/repos.json
+
+            echo "," >> _data/repos.json
+          done
+
+          # Remove trailing comma and close JSON array
+          sed -i '$ d' _data/repos.json
+          echo "]" >> _data/repos.json
 
       - name: Commit and Push
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
           git add _data/repos.json
-          git commit -m "Update repo list" || echo "No changes to commit"
+          git commit -m "Update repo list with tags" || echo "No changes to commit"
           git push
