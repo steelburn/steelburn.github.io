@@ -1,0 +1,26 @@
+name: Update Repository List
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Runs daily
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Fetch Public Repos and Create JSON
+        run: |
+          curl -s "https://api.github.com/users/${{ github.repository_owner }}/repos?per_page=100&type=public" \
+            | jq '[.[] | {name: .name, html_url: .html_url, description: .description}]' \
+            > _data/repos.json
+
+      - name: Commit and Push
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add _data/repos.json
+          git commit -m "Update repo list" || echo "No changes to commit"
+          git push
