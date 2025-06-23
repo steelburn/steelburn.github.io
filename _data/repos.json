@@ -1,1 +1,502 @@
-
+[
+  {
+    "name": "act",
+    "html_url": "https://github.com/steelburn/act",
+    "description": "Run your GitHub Actions locally 🚀"
+  },
+  {
+    "name": "activepieces",
+    "html_url": "https://github.com/steelburn/activepieces",
+    "description": "AI Agents & MCPs & AI Workflow Automation • (280+ MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents"
+  },
+  {
+    "name": "ad",
+    "html_url": "https://github.com/steelburn/ad",
+    "description": "Making Active Directory jQuery-easy"
+  },
+  {
+    "name": "addict",
+    "html_url": "https://github.com/steelburn/addict",
+    "description": "Get a full Active Directory REST API in 30 seconds"
+  },
+  {
+    "name": "alpineIonic",
+    "html_url": "https://github.com/steelburn/alpineIonic",
+    "description": null
+  },
+  {
+    "name": "App",
+    "html_url": "https://github.com/steelburn/App",
+    "description": "Welcome to New Expensify: a complete re-imagination of financial collaboration, centered around chat. Help us build the next generation of Expensify by sharing feedback and contributing to the code."
+  },
+  {
+    "name": "AppFlowy",
+    "html_url": "https://github.com/steelburn/AppFlowy",
+    "description": "Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative."
+  },
+  {
+    "name": "arachni",
+    "html_url": "https://github.com/steelburn/arachni",
+    "description": "Web Application Security Scanner Framework"
+  },
+  {
+    "name": "automatic-api",
+    "html_url": "https://github.com/steelburn/automatic-api",
+    "description": "A list of software that turns your database into a REST/GraphQL API"
+  },
+  {
+    "name": "awesome-iam",
+    "html_url": "https://github.com/steelburn/awesome-iam",
+    "description": "👤 Identity and Access Management knowledge for cloud platforms"
+  },
+  {
+    "name": "awesome-oss-alternatives",
+    "html_url": "https://github.com/steelburn/awesome-oss-alternatives",
+    "description": "Awesome list of open-source startup alternatives to well-known SaaS products 🚀"
+  },
+  {
+    "name": "awesome-software-quality",
+    "html_url": "https://github.com/steelburn/awesome-software-quality",
+    "description": "Software Quality Wiki"
+  },
+  {
+    "name": "AzureStack-Tools",
+    "html_url": "https://github.com/steelburn/AzureStack-Tools",
+    "description": "Scripts and tools that help customers use Azure and Azure Stack"
+  },
+  {
+    "name": "base-core-dock",
+    "html_url": "https://github.com/steelburn/base-core-dock",
+    "description": "Base docker image for Nest-based repo"
+  },
+  {
+    "name": "bastille-linux",
+    "html_url": "https://github.com/steelburn/bastille-linux",
+    "description": null
+  },
+  {
+    "name": "beacon-platform",
+    "html_url": "https://github.com/steelburn/beacon-platform",
+    "description": "Code samples for Google's beacon platform"
+  },
+  {
+    "name": "botpress",
+    "html_url": "https://github.com/steelburn/botpress",
+    "description": "The open-source hub to build & deploy GPT/LLM Agents ⚡️"
+  },
+  {
+    "name": "build-your-own-x",
+    "html_url": "https://github.com/steelburn/build-your-own-x",
+    "description": "Master programming by recreating your favorite technologies from scratch."
+  },
+  {
+    "name": "bulma",
+    "html_url": "https://github.com/steelburn/bulma",
+    "description": "Modern CSS framework based on Flexbox"
+  },
+  {
+    "name": "bunkerweb",
+    "html_url": "https://github.com/steelburn/bunkerweb",
+    "description": "🛡️ Make your web services secure by default !"
+  },
+  {
+    "name": "BurpSuite-Professional-Latest",
+    "html_url": "https://github.com/steelburn/BurpSuite-Professional-Latest",
+    "description": "Burpsuite Professional v2024.* with License Key Generator"
+  },
+  {
+    "name": "code-server",
+    "html_url": "https://github.com/steelburn/code-server",
+    "description": "VS Code in the browser"
+  },
+  {
+    "name": "Complete-System-Design",
+    "html_url": "https://github.com/steelburn/Complete-System-Design",
+    "description": "This repository contains everything you need to become proficient in System Design"
+  },
+  {
+    "name": "core-dock",
+    "html_url": "https://github.com/steelburn/core-dock",
+    "description": "Docker container for eLeaveCore"
+  },
+  {
+    "name": "crate",
+    "html_url": "https://github.com/steelburn/crate",
+    "description": "CrateDB is a distributed SQL database that makes it simple to store and analyze massive amounts of machine data in real-time. Built on top of Lucene."
+  },
+  {
+    "name": "crossfilter",
+    "html_url": "https://github.com/steelburn/crossfilter",
+    "description": "Fast n-dimensional filtering and grouping of records."
+  },
+  {
+    "name": "data-open",
+    "html_url": "https://github.com/steelburn/data-open",
+    "description": null
+  },
+  {
+    "name": "dbdiagram-oss-wrep",
+    "html_url": "https://github.com/steelburn/dbdiagram-oss-wrep",
+    "description": "Open-Source Implementation of the great dbdiagram.io"
+  },
+  {
+    "name": "dc.js",
+    "html_url": "https://github.com/steelburn/dc.js",
+    "description": "Multi-Dimensional charting built to work natively with crossfilter rendered with d3.js"
+  },
+  {
+    "name": "DeepNotes",
+    "html_url": "https://github.com/steelburn/DeepNotes",
+    "description": "End-to-end encrypted visual note-taking tool with deep page navigation. "
+  },
+  {
+    "name": "deploy-code-server",
+    "html_url": "https://github.com/steelburn/deploy-code-server",
+    "description": "Deploy code-server to the cloud with a few clicks ☁️ 👨🏼‍💻"
+  },
+  {
+    "name": "df-docker",
+    "html_url": "https://github.com/steelburn/df-docker",
+    "description": "Docker container for DreamFactory."
+  },
+  {
+    "name": "dify",
+    "html_url": "https://github.com/steelburn/dify",
+    "description": "Production-ready platform for agentic workflow development."
+  },
+  {
+    "name": "docker-compose-pack",
+    "html_url": "https://github.com/steelburn/docker-compose-pack",
+    "description": "Personal Docker Compose files made public."
+  },
+  {
+    "name": "docker-installer",
+    "html_url": "https://github.com/steelburn/docker-installer",
+    "description": "Lazy Docker CE installer for Ubuntu"
+  },
+  {
+    "name": "docker-letsencrypt-nginx-proxy-companion",
+    "html_url": "https://github.com/steelburn/docker-letsencrypt-nginx-proxy-companion",
+    "description": "LetsEncrypt companion container for nginx-proxy"
+  },
+  {
+    "name": "dompdf",
+    "html_url": "https://github.com/steelburn/dompdf",
+    "description": "HTML to PDF converter for PHP"
+  },
+  {
+    "name": "drawdb",
+    "html_url": "https://github.com/steelburn/drawdb",
+    "description": "Free, simple, and intuitive online database diagram editor and SQL generator."
+  },
+  {
+    "name": "dreamfactory_2.14.2",
+    "html_url": "https://github.com/steelburn/dreamfactory_2.14.2",
+    "description": "Community Version of DreamFactory from 2.14.2"
+  },
+  {
+    "name": "eClaim",
+    "html_url": "https://github.com/steelburn/eClaim",
+    "description": "eClaim main repository"
+  },
+  {
+    "name": "eClaimAdmin",
+    "html_url": "https://github.com/steelburn/eClaimAdmin",
+    "description": null
+  },
+  {
+    "name": "eClaimBuilder",
+    "html_url": "https://github.com/steelburn/eClaimBuilder",
+    "description": "Scripts to prepare and build eClaimMobile & eClaim web application."
+  },
+  {
+    "name": "eLeaveDocs",
+    "html_url": "https://github.com/steelburn/eLeaveDocs",
+    "description": "eLeaveDocs docker image specs. The container builds all code documentation & run test scripts"
+  },
+  {
+    "name": "emaildif",
+    "html_url": "https://github.com/steelburn/emaildif",
+    "description": null
+  },
+  {
+    "name": "emoji-cheat-sheet",
+    "html_url": "https://github.com/steelburn/emoji-cheat-sheet",
+    "description": "A markdown version emoji cheat sheet"
+  },
+  {
+    "name": "esawit",
+    "html_url": "https://github.com/steelburn/esawit",
+    "description": "eSawit - on Ionic 3"
+  },
+  {
+    "name": "esawit-web",
+    "html_url": "https://github.com/steelburn/esawit-web",
+    "description": "eSawit Desktop Web"
+  },
+  {
+    "name": "exam-testing-engine-vumingo",
+    "html_url": "https://github.com/steelburn/exam-testing-engine-vumingo",
+    "description": "Free  full version of exam testing engine vumingo"
+  },
+  {
+    "name": "excel4node",
+    "html_url": "https://github.com/steelburn/excel4node",
+    "description": "Node module to allow for easy Excel file creation"
+  },
+  {
+    "name": "faraday",
+    "html_url": "https://github.com/steelburn/faraday",
+    "description": "Open Source Vulnerability Management Platform"
+  },
+  {
+    "name": "filebrowser",
+    "html_url": "https://github.com/steelburn/filebrowser",
+    "description": "📂 Web File Browser"
+  },
+  {
+    "name": "firecracker",
+    "html_url": "https://github.com/steelburn/firecracker",
+    "description": "Secure and fast microVMs for serverless computing."
+  },
+  {
+    "name": "firecrawl",
+    "html_url": "https://github.com/steelburn/firecrawl",
+    "description": "🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API."
+  },
+  {
+    "name": "firefly-iii",
+    "html_url": "https://github.com/steelburn/firefly-iii",
+    "description": "Firefly III: a personal finances manager"
+  },
+  {
+    "name": "Flowise",
+    "html_url": "https://github.com/steelburn/Flowise",
+    "description": "Drag & drop UI to build your customized LLM flow"
+  },
+  {
+    "name": "fonts",
+    "html_url": "https://github.com/steelburn/fonts",
+    "description": "My collection of fonts for direct linking."
+  },
+  {
+    "name": "Fooocus",
+    "html_url": "https://github.com/steelburn/Fooocus",
+    "description": "Focus on prompting and generating"
+  },
+  {
+    "name": "free-llm-api-resources",
+    "html_url": "https://github.com/steelburn/free-llm-api-resources",
+    "description": "A list of free LLM inference resources accessible via API."
+  },
+  {
+    "name": "free-programming-books",
+    "html_url": "https://github.com/steelburn/free-programming-books",
+    "description": ":books: Freely available programming books"
+  },
+  {
+    "name": "fusio-api",
+    "html_url": "https://github.com/steelburn/fusio-api",
+    "description": "Open source API management platform"
+  },
+  {
+    "name": "gllb-load-balancer",
+    "html_url": "https://github.com/steelburn/gllb-load-balancer",
+    "description": "Generic Linux Load Balancer"
+  },
+  {
+    "name": "goblueprints",
+    "html_url": "https://github.com/steelburn/goblueprints",
+    "description": "Source code for Go Programming Blueprints"
+  },
+  {
+    "name": "gosearch",
+    "html_url": "https://github.com/steelburn/gosearch",
+    "description": "🔍 Search anyone's digital footprint across 300+ websites"
+  },
+  {
+    "name": "hiboxscheduler",
+    "html_url": "https://github.com/steelburn/hiboxscheduler",
+    "description": null
+  },
+  {
+    "name": "hoppscotch",
+    "html_url": "https://github.com/steelburn/hoppscotch",
+    "description": "Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)"
+  },
+  {
+    "name": "IEEE",
+    "html_url": "https://github.com/steelburn/IEEE",
+    "description": "IEEE Standards Documents"
+  },
+  {
+    "name": "image-optimizer",
+    "html_url": "https://github.com/steelburn/image-optimizer",
+    "description": null
+  },
+  {
+    "name": "imap2rest",
+    "html_url": "https://github.com/steelburn/imap2rest",
+    "description": "IMAP to REST interface."
+  },
+  {
+    "name": "ionic",
+    "html_url": "https://github.com/steelburn/ionic",
+    "description": "Docker repo for my Ionic"
+  },
+  {
+    "name": "ISO27001",
+    "html_url": "https://github.com/steelburn/ISO27001",
+    "description": "Useful templates and working document for implementing ISO 27001 - ISMS"
+  },
+  {
+    "name": "iso27001-tool",
+    "html_url": "https://github.com/steelburn/iso27001-tool",
+    "description": "ISO 27001 Toolkit by QZ"
+  },
+  {
+    "name": "it-tools",
+    "html_url": "https://github.com/steelburn/it-tools",
+    "description": "Collection of handy online tools for developers, with great UX. "
+  },
+  {
+    "name": "jakim-prayertime",
+    "html_url": "https://github.com/steelburn/jakim-prayertime",
+    "description": "Shell script to parse the XML file from JAKIM website"
+  },
+  {
+    "name": "jmeter-server",
+    "html_url": "https://github.com/steelburn/jmeter-server",
+    "description": "Configuration and scripts for building jmeter server container"
+  },
+  {
+    "name": "kapcheng",
+    "html_url": "https://github.com/steelburn/kapcheng",
+    "description": null
+  },
+  {
+    "name": "koding",
+    "html_url": "https://github.com/steelburn/koding",
+    "description": "The Simplest Way to Manage Your Entire Dev Infrastructure!"
+  },
+  {
+    "name": "langflow",
+    "html_url": "https://github.com/steelburn/langflow",
+    "description": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows."
+  },
+  {
+    "name": "lightdash",
+    "html_url": "https://github.com/steelburn/lightdash",
+    "description": "Self-serve BI to 10x your data team ⚡️"
+  },
+  {
+    "name": "lighttpd",
+    "html_url": "https://github.com/steelburn/lighttpd",
+    "description": "Repo for building steelburn/lighttpd image"
+  },
+  {
+    "name": "llama.cpp",
+    "html_url": "https://github.com/steelburn/llama.cpp",
+    "description": "LLM inference in C/C++"
+  },
+  {
+    "name": "local-llm",
+    "html_url": "https://github.com/steelburn/local-llm",
+    "description": null
+  },
+  {
+    "name": "LocalAI",
+    "html_url": "https://github.com/steelburn/LocalAI",
+    "description": ":robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P inference"
+  },
+  {
+    "name": "logseq",
+    "html_url": "https://github.com/steelburn/logseq",
+    "description": "A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap"
+  },
+  {
+    "name": "MalwareSourceCode",
+    "html_url": "https://github.com/steelburn/MalwareSourceCode",
+    "description": "Collection of malware source code for a variety of platforms in an array of different programming languages."
+  },
+  {
+    "name": "melody",
+    "html_url": "https://github.com/steelburn/melody",
+    "description": "Melody is a library for building JavaScript web applications."
+  },
+  {
+    "name": "Meshki",
+    "html_url": "https://github.com/steelburn/Meshki",
+    "description": "Meshki: A Black-Colored, Responsive Boilerplate for UI Development"
+  },
+  {
+    "name": "metabase",
+    "html_url": "https://github.com/steelburn/metabase",
+    "description": "The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_chart:"
+  },
+  {
+    "name": "miller",
+    "html_url": "https://github.com/steelburn/miller",
+    "description": "Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON"
+  },
+  {
+    "name": "mlflow",
+    "html_url": "https://github.com/steelburn/mlflow",
+    "description": "Open source platform for the machine learning lifecycle"
+  },
+  {
+    "name": "nginx-proxy-manager",
+    "html_url": "https://github.com/steelburn/nginx-proxy-manager",
+    "description": "Docker container for managing Nginx proxy hosts with a simple, powerful interface"
+  },
+  {
+    "name": "nginx-with-letsencrypt",
+    "html_url": "https://github.com/steelburn/nginx-with-letsencrypt",
+    "description": "nginx docker image, recreated with LetsEncrypt ACME Certbot bundled in and working."
+  },
+  {
+    "name": "Nightingale",
+    "html_url": "https://github.com/steelburn/Nightingale",
+    "description": "It's a Docker Environment for pentesting which having all the required tool for VAPT."
+  },
+  {
+    "name": "nuclei",
+    "html_url": "https://github.com/steelburn/nuclei",
+    "description": "Fast and customizable vulnerability scanner based on simple YAML based DSL."
+  },
+  {
+    "name": "odoo-community",
+    "html_url": "https://github.com/steelburn/odoo-community",
+    "description": "Odoo. Open Source Apps To Grow Your Business."
+  },
+  {
+    "name": "offsec-tools",
+    "html_url": "https://github.com/steelburn/offsec-tools",
+    "description": "Compiled tools for internal assessments"
+  },
+  {
+    "name": "open-deepnude",
+    "html_url": "https://github.com/steelburn/open-deepnude",
+    "description": "Open source reverse-engineered clone of DeepNude"
+  },
+  {
+    "name": "open-notebook",
+    "html_url": "https://github.com/steelburn/open-notebook",
+    "description": "An Open Source implementation of Notebook LM with more flexibility and features"
+  },
+  {
+    "name": "openapi-directory",
+    "html_url": "https://github.com/steelburn/openapi-directory",
+    "description": "🌐 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.0 format"
+  },
+  {
+    "name": "OpenAPI-Specification",
+    "html_url": "https://github.com/steelburn/OpenAPI-Specification",
+    "description": "The OpenAPI Specification Repository"
+  },
+  {
+    "name": "OrgChart",
+    "html_url": "https://github.com/steelburn/OrgChart",
+    "description": "It's a simple and direct organization chart plugin. Anytime you want a tree-like chart, you can turn to OrgChart."
+  }
+]
