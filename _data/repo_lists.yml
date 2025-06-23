@@ -1,0 +1,150 @@
+API:
+  - fusio-api
+  - hoppscotch
+  - stack-on-a-budget
+  - public-api-lists
+  - public-apis
+  - automatic-api
+  - tyk-api
+  - php-crud-api
+  - openapi-directory
+  - addict
+  - sheets-api
+  - crud-api
+  - xgenecloud
+  - dreamfactory_2.14.2
+  - php-sp-api
+  - ad
+  - imap2rest
+
+Dev Libraries:
+  - OrgChart
+  - bulma
+  - Meshki
+  - excel4node
+  - vis
+  - melody
+  - ad
+  - Skeleton
+  - crossfilter
+
+References:
+  - stack-on-a-budget
+  - awesome-iam
+  - Python-Algorithms
+  - public-api-lists
+  - public-apis
+  - ISO27001
+  - automatic-api
+  - build-your-own-x
+  - free-programming-books
+  - awesome-oss-alternatives
+  - emoji-cheat-sheet
+  - openapi-directory
+  - OpenAPI-Specification
+  - Complete-System-Design
+  - awesome-software-quality
+  - iso27001-tool
+  - goblueprints
+  - IEEE
+
+DevOps:
+  - act
+  - nginx-proxy-manager
+  - koding
+  - deploy-code-server
+  - healthchecker
+  - jmeter-server
+  - nginx-with-letsencrypt
+  - portainer-templates
+  - gllb-load-balancer
+
+SecOps:
+  - SecLists
+  - Nightingale
+  - OWASP-CheatSheetSeries
+  - sysreptor
+  - reconmap
+  - bunkerweb
+  - awesome-iam
+  - vulnrepo
+  - gosearch
+  - arachni
+  - nginx-proxy-manager
+  - owtf
+  - vapi
+  - MalwareSourceCode
+  - rengine
+  - nuclei
+  - offsec-tools
+  - faraday
+  - BurpSuite-Professional-Latest
+  - w3af
+  - vulnreport
+  - nginx-with-letsencrypt
+
+Business Intelligence:
+  - lightdash
+  - vega
+  - metabase
+  - superset
+  - redash
+  - dc.js
+  - vis
+
+DevTools:
+  - phan
+  - code-server
+  - hoppscotch
+  - penpot
+  - automatic-api
+  - it-tools
+  - php-code-quality
+  - phpchecker
+
+DataOps:
+  - drawdb
+  - rclone
+  - lightdash
+  - vega
+  - teable
+  - miller
+  - metabase
+  - crate
+  - redash
+  - dbdiagram-oss-wrep
+  - talend-open-studio
+  - dc.js
+  - vis
+  - xgenecloud
+  - superset
+  - crossfilter
+
+Common Tools:
+  - DeepNotes
+  - tuturbaca
+  - exam-testing-engine-vumingo
+
+AIOps:
+  - AppFlowy
+  - mlflow
+  - dify
+  - speaches
+  - langflow
+  - activepieces
+  - LocalAI
+  - Flowise
+  - free-llm-api-resources
+  - botpress
+  - open-notebook
+  - quivr
+  - firecrawl
+  - llama.cpp
+  - Zonos
+  - Fooocus
+  - local-llm
+  - stablediffusion
+  - style2paints
+
+UI/UX:
+  - penpot

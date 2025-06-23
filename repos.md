@@ -1,40 +1,54 @@
 ---
 layout: default
-title: My Categorized GitHub Repos
+title: My Repositories
 ---
 
-<h2>My Public Repositories Categorized by Tags</h2>
+<h1>My GitHub Repositories</h1>
 
-{% assign all_tags = site.data.repos | map: "tags" | uniq | flatten | uniq | sort %}
-{% assign all_tags = all_tags | push: "No Tag" %}
+{% assign repos_by_name = site.data.repos | index_by: "name" %}
+{% assign all_listed_repos = "" | split: "," %}
 
-{% for tag in all_tags %}
-  <h3>{{ tag }}</h3>
+{% for list in site.data.repo_lists %}
+  {% assign list_name = list[0] %}
+  {% assign repo_names = list[1] %}
+  {% assign all_listed_repos = all_listed_repos | concat: repo_names %}
+
+  <h2>{{ list_name }}</h2>
   <table>
     <thead>
-      <tr>
-        <th>Repository</th>
-        <th>Description</th>
-      </tr>
+      <tr><th>Repository</th><th>Description</th></tr>
     </thead>
     <tbody>
-      {% for repo in site.data.repos %}
-        {% if tag == "No Tag" %}
-          {% if repo.tags == empty %}
-            <tr>
-              <td><a href="{{ repo.html_url }}">{{ repo.name }}</a></td>
-              <td>{{ repo.description | default: "No description provided." }}</td>
-            </tr>
-          {% endif %}
+      {% for repo_name in repo_names %}
+        {% assign repo = repos_by_name[repo_name] %}
+        {% if repo %}
+        <tr>
+          <td><a href="{{ repo.html_url }}">{{ repo.name }}</a></td>
+          <td>{{ repo.description | default: "No description provided." }}</td>
+        </tr>
         {% else %}
-          {% if repo.tags contains tag %}
-            <tr>
-              <td><a href="{{ repo.html_url }}">{{ repo.name }}</a></td>
-              <td>{{ repo.description | default: "No description provided." }}</td>
-            </tr>
-          {% endif %}
+        <tr>
+          <td colspan="2">{{ repo_name }} <em>(not found)</em></td>
+        </tr>
         {% endif %}
       {% endfor %}
     </tbody>
   </table>
 {% endfor %}
+
+<h2>Unlisted Repositories</h2>
+<table>
+  <thead>
+    <tr><th>Repository</th><th>Description</th></tr>
+  </thead>
+  <tbody>
+    {% for repo in site.data.repos %}
+      {% unless all_listed_repos contains repo.name %}
+      <tr>
+        <td><a href="{{ repo.html_url }}">{{ repo.name }}</a></td>
+        <td>{{ repo.description | default: "No description provided." }}</td>
+      </tr>
+      {% endunless %}
+    {% endfor %}
+  </tbody>
+</table>

@@ -1,8 +1,8 @@
-name: Update Repository List with Tags
+name: Update Repository List
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # Daily
+    - cron: '0 0 * * *'  # daily
   workflow_dispatch:
 
 jobs:
@@ -11,34 +11,38 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      - name: Install jq and curl
+      - name: Install dependencies
         run: sudo apt-get update && sudo apt-get install -y jq curl
 
-      - name: Fetch Repos and Tags
+      - name: Fetch Repositories
+        env:
+          GH_USERNAME: ${{ github.repository_owner }}
         run: |
-          USER="${{ github.repository_owner }}"
-          REPOS=$(curl -s "https://api.github.com/users/$USER/repos?per_page=100&type=public")
+          mkdir -p _data
+
+          # Fetch repos
+          curl -s "https://api.github.com/users/$GH_USERNAME/repos?per_page=100&type=public" > repos.json
 
           echo "[" > _data/repos.json
-          echo "$REPOS" | jq -c '.[]' | while read repo; do
+          COUNT=0
+
+          jq -c '.[]' repos.json | while read repo; do
             NAME=$(echo "$repo" | jq -r '.name')
             HTML_URL=$(echo "$repo" | jq -r '.html_url')
             DESCRIPTION=$(echo "$repo" | jq -r '.description')
-
-            TAGS=$(curl -s "https://api.github.com/repos/$USER/$NAME/tags" | jq '[.[].name]')
 
             jq -n \
               --arg name "$NAME" \
               --arg html_url "$HTML_URL" \
               --arg description "$DESCRIPTION" \
-              --argjson tags "$TAGS" \
-              '{name: $name, html_url: $html_url, description: $description, tags: $tags}' >> _data/repos.json
+              '{name: $name, html_url: $html_url, description: $description}' >> _data/repos.json
 
-            echo "," >> _data/repos.json
+            COUNT=$((COUNT + 1))
+            if [ "$COUNT" -lt "$(jq length repos.json)" ]; then
+              echo "," >> _data/repos.json
+            fi
           done
 
-          # Remove trailing comma and close JSON array
-          sed -i '$ d' _data/repos.json
           echo "]" >> _data/repos.json
 
       - name: Commit and Push
@@ -46,5 +50,5 @@ jobs:
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
           git add _data/repos.json
-          git commit -m "Update repo list with tags" || echo "No changes to commit"
+          git commit -m "Update repos list" || echo "No changes"
           git push
