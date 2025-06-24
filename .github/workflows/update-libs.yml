@@ -1,0 +1,25 @@
+name: Update Dev Libraries JSON
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # runs daily at midnight UTC
+  workflow_dispatch:
+
+jobs:
+  update-json:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+      - name: Install dependencies
+        run: npm install node-fetch@2
+      - name: Generate JSON
+        run: node scripts/update-libs.js
+      - name: Commit and push changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: 'chore: update dev-libraries.json'
+          branch: main
