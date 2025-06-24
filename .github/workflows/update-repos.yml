@@ -20,39 +20,38 @@ jobs:
           LISTS_FILE="_data/repo_lists.yml"
           OUTPUT="_data/repos.json"
 
-          echo "[" > "$OUTPUT"
-          COUNT=0
+echo "[" > "$OUTPUT"
 
-          # Extract all repo full names from repo_lists.yml (skip category lines)
-          REPO_NAMES=$(grep -vE '^ *[^:]+:$' "$LISTS_FILE" | sed 's/^- *//' | sort | uniq)
-          TOTAL=$(echo "$REPO_NAMES" | wc -l)
+REPO_NAMES=$(yq e '.[].[]' "$LISTS_FILE" | sort | uniq)
+TOTAL=$(echo "$REPO_NAMES" | wc -l)
+COUNT=0
 
-          echo "$REPO_NAMES" | while read full_name; do
-            if [ -z "$full_name" ]; then continue; fi
+echo "$REPO_NAMES" | while read full_name; do
+  RESPONSE=$(curl -s "https://api.github.com/repos/$full_name")
 
-            RESPONSE=$(curl -s "https://api.github.com/repos/$full_name")
+  NAME=$(echo "$RESPONSE" | jq -r '.name')
+  FULL_NAME=$(echo "$RESPONSE" | jq -r '.full_name')
+  HTML_URL=$(echo "$RESPONSE" | jq -r '.html_url')
+  DESCRIPTION=$(echo "$RESPONSE" | jq -r '.description')
 
-            NAME=$(echo "$RESPONSE" | jq -r '.name')
-            FULL_NAME=$(echo "$RESPONSE" | jq -r '.full_name')
-            HTML_URL=$(echo "$RESPONSE" | jq -r '.html_url')
-            DESCRIPTION=$(echo "$RESPONSE" | jq -r '.description')
+  if [ "$HTML_URL" != "null" ]; then
+    if [ "$COUNT" -ne 0 ]; then
+      echo "," >> "$OUTPUT"
+    fi
 
-            if [ "$HTML_URL" != "null" ]; then
-              jq -n \
-                --arg name "$NAME" \
-                --arg full_name "$FULL_NAME" \
-                --arg html_url "$HTML_URL" \
-                --arg description "$DESCRIPTION" \
-                '{name: $name, full_name: $full_name, html_url: $html_url, description: $description}' >> "$OUTPUT"
+    jq -n \
+      --arg name "$NAME" \
+      --arg full_name "$FULL_NAME" \
+      --arg html_url "$HTML_URL" \
+      --arg description "$DESCRIPTION" \
+      '{name: $name, full_name: $full_name, html_url: $html_url, description: $description}' >> "$OUTPUT"
 
-              COUNT=$((COUNT + 1))
-              if [ "$COUNT" -lt "$TOTAL" ]; then
-                echo "," >> "$OUTPUT"
-              fi
-            fi
-          done
+    COUNT=$((COUNT + 1))
+  fi
+done
 
-          echo "]" >> "$OUTPUT"
+echo "]" >> "$OUTPUT"
+
 
       - name: Commit and Push
         run: |
