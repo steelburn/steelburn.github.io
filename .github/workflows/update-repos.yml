@@ -1,8 +1,8 @@
-name: Update Repository List
+name: Update Repo Lists
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # daily
+    - cron: '0 0 * * *'
   workflow_dispatch:
 
 jobs:
@@ -11,44 +11,52 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      - name: Install dependencies
+      - name: Install jq
         run: sudo apt-get update && sudo apt-get install -y jq curl
 
-      - name: Fetch Repositories
-        env:
-          GH_USERNAME: ${{ github.repository_owner }}
+      - name: Fetch listed repos by full name
         run: |
           mkdir -p _data
+          LISTS_FILE="_data/repo_lists.yml"
+          OUTPUT="_data/repos.json"
 
-          # Fetch repos
-          curl -s "https://api.github.com/users/$GH_USERNAME/repos?per_page=100&type=public" > repos.json
-
-          echo "[" > _data/repos.json
+          echo "[" > "$OUTPUT"
           COUNT=0
 
-          jq -c '.[]' repos.json | while read repo; do
-            NAME=$(echo "$repo" | jq -r '.name')
-            HTML_URL=$(echo "$repo" | jq -r '.html_url')
-            DESCRIPTION=$(echo "$repo" | jq -r '.description')
+          # Extract all repo full names from all categories
+          REPO_NAMES=$(yq e '.[].[]' "$LISTS_FILE" | sort | uniq)
 
-            jq -n \
-              --arg name "$NAME" \
-              --arg html_url "$HTML_URL" \
-              --arg description "$DESCRIPTION" \
-              '{name: $name, html_url: $html_url, description: $description}' >> _data/repos.json
+          TOTAL=$(echo "$REPO_NAMES" | wc -l)
 
-            COUNT=$((COUNT + 1))
-            if [ "$COUNT" -lt "$(jq length repos.json)" ]; then
-              echo "," >> _data/repos.json
+          echo "$REPO_NAMES" | while read full_name; do
+            RESPONSE=$(curl -s "https://api.github.com/repos/$full_name")
+
+            NAME=$(echo "$RESPONSE" | jq -r '.name')
+            FULL_NAME=$(echo "$RESPONSE" | jq -r '.full_name')
+            HTML_URL=$(echo "$RESPONSE" | jq -r '.html_url')
+            DESCRIPTION=$(echo "$RESPONSE" | jq -r '.description')
+
+            if [ "$HTML_URL" != "null" ]; then
+              jq -n \
+                --arg name "$NAME" \
+                --arg full_name "$FULL_NAME" \
+                --arg html_url "$HTML_URL" \
+                --arg description "$DESCRIPTION" \
+                '{name: $name, full_name: $full_name, html_url: $html_url, description: $description}' >> "$OUTPUT"
+
+              COUNT=$((COUNT + 1))
+              if [ "$COUNT" -lt "$TOTAL" ]; then
+                echo "," >> "$OUTPUT"
+              fi
             fi
           done
 
-          echo "]" >> _data/repos.json
+          echo "]" >> "$OUTPUT"
 
-      - name: Commit and Push
+      - name: Commit and push
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
           git add _data/repos.json
-          git commit -m "Update repos list" || echo "No changes"
+          git commit -m "Update full repo list" || echo "No changes"
           git push
