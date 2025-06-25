@@ -70,7 +70,7 @@ SecOps:
   - steelburn/vulnrepo
   - steelburn/gosearch
   - steelburn/arachni
-  - nginx-steelburn/proxy-manager
+  - steelburn/nginx-proxy-manager
   - steelburn/owtf
   - steelburn/vapi
   - steelburn/MalwareSourceCode
