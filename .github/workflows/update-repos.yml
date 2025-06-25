@@ -1,32 +1,37 @@
-name: Update Repo Lists
+name: Update Repository List
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # Daily
+    - cron: '0 0 * * *'
   workflow_dispatch:
 
 jobs:
   update:
     runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
 
-      - name: Install jq
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Install dependencies
         run: sudo apt-get update && sudo apt-get install -y jq curl
 
-      - name: Fetch listed repos by full name
+      - name: Extract full repo names from repo_lists.yml
         run: |
           mkdir -p _data
           LISTS_FILE="_data/repo_lists.yml"
           OUTPUT="_data/repos.json"
 
+          # Extract lines that look like "  - owner/repo"
+          grep '^\s*-\s' "$LISTS_FILE" | sed 's/^\s*-\s//' | sort | uniq > repo_list.txt
+
           echo "[" > "$OUTPUT"
 
-          REPO_NAMES=$(yq e '.[].[]' "$LISTS_FILE" | sort | uniq)
-          TOTAL=$(echo "$REPO_NAMES" | wc -l)
           COUNT=0
+          TOTAL=$(cat repo_list.txt | wc -l)
 
-          echo "$REPO_NAMES" | while read full_name; do
+          while read full_name; do
+            echo "Fetching $full_name"
             RESPONSE=$(curl -s "https://api.github.com/repos/$full_name")
 
             NAME=$(echo "$RESPONSE" | jq -r '.name')
@@ -34,7 +39,7 @@ jobs:
             HTML_URL=$(echo "$RESPONSE" | jq -r '.html_url')
             DESCRIPTION=$(echo "$RESPONSE" | jq -r '.description')
 
-            if [ "$HTML_URL" != "null" ]; then
+            if [ "$HTML_URL" != "null" ] && [ -n "$HTML_URL" ]; then
               if [ "$COUNT" -ne 0 ]; then
                 echo "," >> "$OUTPUT"
               fi
@@ -48,15 +53,14 @@ jobs:
 
               COUNT=$((COUNT + 1))
             fi
-          done
+          done < repo_list.txt
 
           echo "]" >> "$OUTPUT"
-
 
       - name: Commit and Push
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
           git add _data/repos.json
-          git commit -m "Update full repo list" || echo "No changes"
+          git commit -m "Update repo list without yq" || echo "No changes"
           git push
