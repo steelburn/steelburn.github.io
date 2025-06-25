@@ -1,0 +1,89 @@
+name: Generate Repos Page
+
+on:
+  workflow_run:
+    workflows: ["Update Repository List"]
+    types:
+      - completed
+
+jobs:
+  generate:
+    if: ${{ github.event.workflow_run.conclusion == 'success' }}
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Install jq
+        run: sudo apt-get update && sudo apt-get install -y jq
+
+      - name: Generate repos.md page from repos.json
+        run: |
+          JSON_FILE="_data/repos.json"
+          LISTS_FILE="_data/repo_lists.yml"
+          OUTPUT_FILE="repos.md"
+
+          echo '---' > $OUTPUT_FILE
+          echo 'layout: default' >> $OUTPUT_FILE
+          echo 'title: Repositories' >> $OUTPUT_FILE
+          echo '---' >> $OUTPUT_FILE
+          echo '' >> $OUTPUT_FILE
+          echo '# Repositories by Category' >> $OUTPUT_FILE
+          echo '' >> $OUTPUT_FILE
+
+          # Extract all lists and groupings from repo_lists.yml
+          grep '^[^[:space:]]' $LISTS_FILE | sed 's/:$//' | while read category; do
+            echo "## $category" >> $OUTPUT_FILE
+            echo '' >> $OUTPUT_FILE
+            echo '<table>' >> $OUTPUT_FILE
+            echo '<thead><tr><th>Repository</th><th>Description</th></tr></thead>' >> $OUTPUT_FILE
+            echo '<tbody>' >> $OUTPUT_FILE
+
+            # Get list of repos under this category
+            awk -v category="$category" '
+              BEGIN { in_section=0 }
+              $0 ~ "^"category":" { in_section=1; next }
+              in_section && $0 ~ /^[^[:space:]]/ { exit }
+              in_section && $0 ~ /^\s*-\s/ {
+                gsub(/^\s*-\s*/, "", $0);
+                print $0
+              }
+            ' "$LISTS_FILE" | while read full_name; do
+              DESC=$(jq -r ".[] | select(.full_name == \"$full_name\") | .description" "$JSON_FILE")
+              URL=$(jq -r ".[] | select(.full_name == \"$full_name\") | .html_url" "$JSON_FILE")
+
+              if [ "$URL" != "" ] && [ "$URL" != "null" ]; then
+                echo "<tr><td><a href=\"$URL\">$full_name</a></td><td>${DESC:-No description}</td></tr>" >> $OUTPUT_FILE
+              else
+                echo "<tr><td colspan=\"2\">$full_name <em>(not found)</em></td></tr>" >> $OUTPUT_FILE
+              fi
+            done
+
+            echo '</tbody></table>' >> $OUTPUT_FILE
+            echo '' >> $OUTPUT_FILE
+          done
+
+          # Generate unlisted section
+          echo "## Unlisted Repositories" >> $OUTPUT_FILE
+          echo '<table>' >> $OUTPUT_FILE
+          echo '<thead><tr><th>Repository</th><th>Description</th></tr></thead>' >> $OUTPUT_FILE
+          echo '<tbody>' >> $OUTPUT_FILE
+
+          LISTED=$(grep '^\s*-\s' "$LISTS_FILE" | sed 's/^\s*-\s//' | sort)
+          jq -r '.[].full_name' "$JSON_FILE" | sort | uniq | while read full_name; do
+            if ! echo "$LISTED" | grep -qx "$full_name"; then
+              DESC=$(jq -r ".[] | select(.full_name == \"$full_name\") | .description" "$JSON_FILE")
+              URL=$(jq -r ".[] | select(.full_name == \"$full_name\") | .html_url" "$JSON_FILE")
+              echo "<tr><td><a href=\"$URL\">$full_name</a></td><td>${DESC:-No description}</td></tr>" >> $OUTPUT_FILE
+            fi
+          done
+
+          echo '</tbody></table>' >> $OUTPUT_FILE
+
+      - name: Commit generated repos.md
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add repos.md
+          git commit -m "Auto-generate repos.md from data" || echo "No changes"
+          git push
