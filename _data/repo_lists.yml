@@ -119,6 +119,7 @@ DataOps:
   - steelburn/xgenecloud
   - steelburn/superset
   - steelburn/crossfilter
+  - steelburn/vanna
 
 Common Tools:
   - steelburn/DeepNotes
@@ -146,6 +147,7 @@ AIOps:
   - steelburn/stablediffusion
   - steelburn/style2paints
   - steelburn/mem0
+  - steelburn/vanna
 
 UI/UX:
   - steelburn/penpots
