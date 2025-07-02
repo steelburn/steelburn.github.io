@@ -145,6 +145,7 @@ AIOps:
   - steelburn/local-llm
   - steelburn/stablediffusion
   - steelburn/style2paints
+  - steelburn/mem0
 
 UI/UX:
   - steelburn/penpots
