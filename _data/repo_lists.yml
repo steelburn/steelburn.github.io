@@ -47,6 +47,7 @@ References:
   - steelburn/iso27001-tool
   - steelburn/goblueprints
   - steelburn/IEEE
+  - steelburn/awesome-selfhosted
 
 DevOps:
   - steelburn/act
@@ -58,6 +59,7 @@ DevOps:
   - steelburn/nginx-with-letsencrypt
   - steelburn/portainer-templates
   - steelburn/gllb-load-balancer
+  - steelburn/windmill
 
 SecOps:
   - steelburn/SecLists
@@ -101,6 +103,7 @@ DevTools:
   - steelburn/it-tools
   - steelburn/php-code-quality
   - steelburn/phpchecker
+  - steelburn/windmill
 
 DataOps:
   - steelburn/drawdb
@@ -125,6 +128,8 @@ Common Tools:
   - steelburn/DeepNotes
   - steelburn/tuturbaca
   - steelburn/exam-testing-engine-vumingo
+  - steelburn/AFFiNE
+  - steelburn/starbase-80
 
 AIOps:
   - steelburn/AppFlowy
@@ -148,6 +153,10 @@ AIOps:
   - steelburn/style2paints
   - steelburn/mem0
   - steelburn/vanna
+  - steelburn/ClaraVerse
 
 UI/UX:
   - steelburn/penpots
+  - steelburn/AFFiNE
+  - steelburn/icons
+  - steelburn/starbase-80
