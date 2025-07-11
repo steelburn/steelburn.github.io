@@ -320,4 +320,11 @@
   "html_url": "https://github.com/steelburn/exam-testing-engine-vumingo",
   "description": "Free  full version of exam testing engine vumingo"
 }
+,
+{
+  "name": "excel4node",
+  "full_name": "steelburn/excel4node",
+  "html_url": "https://github.com/steelburn/excel4node",
+  "description": "Node module to allow for easy Excel file creation"
+}
 ]
