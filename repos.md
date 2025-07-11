@@ -37,7 +37,7 @@ title: Repositories
 <tr><td><a href="https://github.com/steelburn/OrgChart">steelburn/OrgChart</a></td><td>It's a simple and direct organization chart plugin. Anytime you want a tree-like chart, you can turn to OrgChart.</td></tr>
 <tr><td><a href="https://github.com/steelburn/bulma">steelburn/bulma</a></td><td>Modern CSS framework based on Flexbox</td></tr>
 <tr><td><a href="https://github.com/steelburn/Meshki">steelburn/Meshki</a></td><td>Meshki: A Black-Colored, Responsive Boilerplate for UI Development</td></tr>
-<tr><td colspan="2">steelburn/excel4node <em>(not found)</em></td></tr>
+<tr><td><a href="https://github.com/steelburn/excel4node">steelburn/excel4node</a></td><td>Node module to allow for easy Excel file creation</td></tr>
 <tr><td colspan="2">steelburn/vis <em>(not found)</em></td></tr>
 <tr><td colspan="2">steelburn/melody <em>(not found)</em></td></tr>
 <tr><td><a href="https://github.com/steelburn/ad">steelburn/ad</a></td><td>Making Active Directory jQuery-easy</td></tr>
