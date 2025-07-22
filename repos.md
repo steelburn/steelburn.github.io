@@ -55,7 +55,7 @@ title: Repositories
 <tr><td colspan="2">steelburn/Python-Algorithms <em>(not found)</em></td></tr>
 <tr><td colspan="2">steelburn/public-api-lists <em>(not found)</em></td></tr>
 <tr><td colspan="2">steelburn/public-apis <em>(not found)</em></td></tr>
-<tr><td colspan="2">steelburn/ISO27001 <em>(not found)</em></td></tr>
+<tr><td><a href="https://github.com/steelburn/ISO27001">steelburn/ISO27001</a></td><td>Useful templates and working document for implementing ISO 27001 - ISMS</td></tr>
 <tr><td colspan="2">steelburn/automatic-api <em>(not found)</em></td></tr>
 <tr><td colspan="2">steelburn/build-your-own-x <em>(not found)</em></td></tr>
 <tr><td colspan="2">steelburn/free-programming-books <em>(not found)</em></td></tr>
@@ -63,11 +63,11 @@ title: Repositories
 <tr><td colspan="2">steelburn/emoji-cheat-sheet <em>(not found)</em></td></tr>
 <tr><td colspan="2">steelburn/openapi-directory <em>(not found)</em></td></tr>
 <tr><td colspan="2">steelburn/OpenAPI-Specification <em>(not found)</em></td></tr>
-<tr><td colspan="2">steelburn/Complete-System-Design <em>(not found)</em></td></tr>
+<tr><td><a href="https://github.com/steelburn/Complete-System-Design">steelburn/Complete-System-Design</a></td><td>This repository contains everything you need to become proficient in System Design</td></tr>
 <tr><td colspan="2">steelburn/awesome-software-quality <em>(not found)</em></td></tr>
 <tr><td colspan="2">steelburn/iso27001-tool <em>(not found)</em></td></tr>
 <tr><td colspan="2">steelburn/goblueprints <em>(not found)</em></td></tr>
-<tr><td colspan="2">steelburn/IEEE <em>(not found)</em></td></tr>
+<tr><td><a href="https://github.com/steelburn/IEEE">steelburn/IEEE</a></td><td>IEEE Standards Documents</td></tr>
 <tr><td colspan="2">steelburn/awesome-selfhosted <em>(not found)</em></td></tr>
 </tbody></table>
 
@@ -106,12 +106,12 @@ title: Repositories
 <tr><td colspan="2">steelburn/nginx-proxy-manager <em>(not found)</em></td></tr>
 <tr><td colspan="2">steelburn/owtf <em>(not found)</em></td></tr>
 <tr><td colspan="2">steelburn/vapi <em>(not found)</em></td></tr>
-<tr><td colspan="2">steelburn/MalwareSourceCode <em>(not found)</em></td></tr>
+<tr><td><a href="https://github.com/steelburn/MalwareSourceCode">steelburn/MalwareSourceCode</a></td><td>Collection of malware source code for a variety of platforms in an array of different programming languages.</td></tr>
 <tr><td colspan="2">steelburn/rengine <em>(not found)</em></td></tr>
 <tr><td colspan="2">steelburn/nuclei <em>(not found)</em></td></tr>
 <tr><td colspan="2">steelburn/offsec-tools <em>(not found)</em></td></tr>
 <tr><td colspan="2">steelburn/faraday <em>(not found)</em></td></tr>
-<tr><td colspan="2">steelburn/BurpSuite-Professional-Latest <em>(not found)</em></td></tr>
+<tr><td><a href="https://github.com/steelburn/BurpSuite-Professional-Latest">steelburn/BurpSuite-Professional-Latest</a></td><td>Burpsuite Professional v2024.* with License Key Generator</td></tr>
 <tr><td colspan="2">steelburn/w3af <em>(not found)</em></td></tr>
 <tr><td colspan="2">steelburn/vulnreport <em>(not found)</em></td></tr>
 <tr><td colspan="2">steelburn/nginx-with-letsencrypt <em>(not found)</em></td></tr>
@@ -176,10 +176,10 @@ title: Repositories
 <table>
 <thead><tr><th>Repository</th><th>Description</th></tr></thead>
 <tbody>
-<tr><td colspan="2">steelburn/DeepNotes <em>(not found)</em></td></tr>
+<tr><td><a href="https://github.com/steelburn/DeepNotes">steelburn/DeepNotes</a></td><td>End-to-end encrypted visual note-taking tool with deep page navigation. </td></tr>
 <tr><td colspan="2">steelburn/tuturbaca <em>(not found)</em></td></tr>
 <tr><td colspan="2">steelburn/exam-testing-engine-vumingo <em>(not found)</em></td></tr>
-<tr><td colspan="2">steelburn/AFFiNE <em>(not found)</em></td></tr>
+<tr><td><a href="https://github.com/steelburn/AFFiNE">steelburn/AFFiNE</a></td><td>There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. </td></tr>
 <tr><td colspan="2">steelburn/starbase-80 <em>(not found)</em></td></tr>
 </tbody></table>
 
@@ -188,14 +188,14 @@ title: Repositories
 <table>
 <thead><tr><th>Repository</th><th>Description</th></tr></thead>
 <tbody>
-<tr><td colspan="2">steelburn/AppFlowy <em>(not found)</em></td></tr>
+<tr><td><a href="https://github.com/steelburn/AppFlowy">steelburn/AppFlowy</a></td><td>Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.</td></tr>
 <tr><td colspan="2">steelburn/mlflow <em>(not found)</em></td></tr>
 <tr><td colspan="2">steelburn/dify <em>(not found)</em></td></tr>
 <tr><td colspan="2">steelburn/speaches <em>(not found)</em></td></tr>
 <tr><td colspan="2">steelburn/langflow <em>(not found)</em></td></tr>
 <tr><td colspan="2">steelburn/activepieces <em>(not found)</em></td></tr>
-<tr><td colspan="2">steelburn/LocalAI <em>(not found)</em></td></tr>
-<tr><td colspan="2">steelburn/Flowise <em>(not found)</em></td></tr>
+<tr><td><a href="https://github.com/steelburn/LocalAI">steelburn/LocalAI</a></td><td>:robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P inference</td></tr>
+<tr><td><a href="https://github.com/steelburn/Flowise">steelburn/Flowise</a></td><td>Drag & drop UI to build your customized LLM flow</td></tr>
 <tr><td colspan="2">steelburn/free-llm-api-resources <em>(not found)</em></td></tr>
 <tr><td colspan="2">steelburn/botpress <em>(not found)</em></td></tr>
 <tr><td colspan="2">steelburn/open-notebook <em>(not found)</em></td></tr>
@@ -203,13 +203,13 @@ title: Repositories
 <tr><td colspan="2">steelburn/firecrawl <em>(not found)</em></td></tr>
 <tr><td colspan="2">steelburn/llama.cpp <em>(not found)</em></td></tr>
 <tr><td colspan="2">steelburn/Zonos <em>(not found)</em></td></tr>
-<tr><td colspan="2">steelburn/Fooocus <em>(not found)</em></td></tr>
+<tr><td><a href="https://github.com/steelburn/Fooocus">steelburn/Fooocus</a></td><td>Focus on prompting and generating</td></tr>
 <tr><td colspan="2">steelburn/local-llm <em>(not found)</em></td></tr>
 <tr><td colspan="2">steelburn/stablediffusion <em>(not found)</em></td></tr>
 <tr><td colspan="2">steelburn/style2paints <em>(not found)</em></td></tr>
 <tr><td colspan="2">steelburn/mem0 <em>(not found)</em></td></tr>
 <tr><td colspan="2">steelburn/vanna <em>(not found)</em></td></tr>
-<tr><td colspan="2">steelburn/ClaraVerse <em>(not found)</em></td></tr>
+<tr><td><a href="https://github.com/steelburn/ClaraVerse">steelburn/ClaraVerse</a></td><td>Clara — Privacy-first, fully local AI workspace with Ollama LLM chat, tool calling, agent builder, Stable Diffusion, and embedded n8n-style automation. No backend. No API keys. Just your stack, your machine.</td></tr>
 </tbody></table>
 
 ## UI/UX
@@ -218,7 +218,7 @@ title: Repositories
 <thead><tr><th>Repository</th><th>Description</th></tr></thead>
 <tbody>
 <tr><td colspan="2">steelburn/penpots <em>(not found)</em></td></tr>
-<tr><td colspan="2">steelburn/AFFiNE <em>(not found)</em></td></tr>
+<tr><td><a href="https://github.com/steelburn/AFFiNE">steelburn/AFFiNE</a></td><td>There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. </td></tr>
 <tr><td colspan="2">steelburn/icons <em>(not found)</em></td></tr>
 <tr><td colspan="2">steelburn/starbase-80 <em>(not found)</em></td></tr>
 </tbody></table>
