@@ -10,7 +10,7 @@ title: Repositories
 <table>
 <thead><tr><th>Repository</th><th>Description</th></tr></thead>
 <tbody>
-<tr><td colspan="2">steelburn/fusio-api <em>(not found)</em></td></tr>
+<tr><td><a href="https://github.com/steelburn/fusio-api">steelburn/fusio-api</a></td><td>Open source API management platform</td></tr>
 <tr><td colspan="2">steelburn/hoppscotch <em>(not found)</em></td></tr>
 <tr><td colspan="2">steelburn/stack-on-a-budget <em>(not found)</em></td></tr>
 <tr><td colspan="2">steelburn/public-api-lists <em>(not found)</em></td></tr>
@@ -58,7 +58,7 @@ title: Repositories
 <tr><td><a href="https://github.com/steelburn/ISO27001">steelburn/ISO27001</a></td><td>Useful templates and working document for implementing ISO 27001 - ISMS</td></tr>
 <tr><td><a href="https://github.com/steelburn/automatic-api">steelburn/automatic-api</a></td><td>A list of software that turns your database into a REST/GraphQL API</td></tr>
 <tr><td><a href="https://github.com/steelburn/build-your-own-x">steelburn/build-your-own-x</a></td><td>Master programming by recreating your favorite technologies from scratch.</td></tr>
-<tr><td colspan="2">steelburn/free-programming-books <em>(not found)</em></td></tr>
+<tr><td><a href="https://github.com/steelburn/free-programming-books">steelburn/free-programming-books</a></td><td>:books: Freely available programming books</td></tr>
 <tr><td><a href="https://github.com/steelburn/awesome-oss-alternatives">steelburn/awesome-oss-alternatives</a></td><td>Awesome list of open-source startup alternatives to well-known SaaS products 🚀</td></tr>
 <tr><td><a href="https://github.com/steelburn/emoji-cheat-sheet">steelburn/emoji-cheat-sheet</a></td><td>A markdown version emoji cheat sheet</td></tr>
 <tr><td colspan="2">steelburn/openapi-directory <em>(not found)</em></td></tr>
@@ -84,7 +84,7 @@ title: Repositories
 <tr><td colspan="2">steelburn/jmeter-server <em>(not found)</em></td></tr>
 <tr><td colspan="2">steelburn/nginx-with-letsencrypt <em>(not found)</em></td></tr>
 <tr><td colspan="2">steelburn/portainer-templates <em>(not found)</em></td></tr>
-<tr><td colspan="2">steelburn/gllb-load-balancer <em>(not found)</em></td></tr>
+<tr><td><a href="https://github.com/steelburn/gllb-load-balancer">steelburn/gllb-load-balancer</a></td><td>Generic Linux Load Balancer</td></tr>
 <tr><td colspan="2">steelburn/windmill <em>(not found)</em></td></tr>
 </tbody></table>
 
