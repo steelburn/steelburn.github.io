@@ -355,18 +355,4 @@
   "html_url": "https://github.com/steelburn/free-programming-books",
   "description": ":books: Freely available programming books"
 }
-,
-{
-  "name": "fusio-api",
-  "full_name": "steelburn/fusio-api",
-  "html_url": "https://github.com/steelburn/fusio-api",
-  "description": "Open source API management platform"
-}
-,
-{
-  "name": "gllb-load-balancer",
-  "full_name": "steelburn/gllb-load-balancer",
-  "html_url": "https://github.com/steelburn/gllb-load-balancer",
-  "description": "Generic Linux Load Balancer"
-}
 ]
