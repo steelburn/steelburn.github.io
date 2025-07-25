@@ -10,7 +10,7 @@ title: Repositories
 <table>
 <thead><tr><th>Repository</th><th>Description</th></tr></thead>
 <tbody>
-<tr><td><a href="https://github.com/steelburn/fusio-api">steelburn/fusio-api</a></td><td>Open source API management platform</td></tr>
+<tr><td colspan="2">steelburn/fusio-api <em>(not found)</em></td></tr>
 <tr><td colspan="2">steelburn/hoppscotch <em>(not found)</em></td></tr>
 <tr><td colspan="2">steelburn/stack-on-a-budget <em>(not found)</em></td></tr>
 <tr><td colspan="2">steelburn/public-api-lists <em>(not found)</em></td></tr>
@@ -84,7 +84,7 @@ title: Repositories
 <tr><td colspan="2">steelburn/jmeter-server <em>(not found)</em></td></tr>
 <tr><td colspan="2">steelburn/nginx-with-letsencrypt <em>(not found)</em></td></tr>
 <tr><td colspan="2">steelburn/portainer-templates <em>(not found)</em></td></tr>
-<tr><td><a href="https://github.com/steelburn/gllb-load-balancer">steelburn/gllb-load-balancer</a></td><td>Generic Linux Load Balancer</td></tr>
+<tr><td colspan="2">steelburn/gllb-load-balancer <em>(not found)</em></td></tr>
 <tr><td colspan="2">steelburn/windmill <em>(not found)</em></td></tr>
 </tbody></table>
 
