@@ -84,7 +84,7 @@ title: Repositories
 <tr><td colspan="2">steelburn/jmeter-server <em>(not found)</em></td></tr>
 <tr><td colspan="2">steelburn/nginx-with-letsencrypt <em>(not found)</em></td></tr>
 <tr><td colspan="2">steelburn/portainer-templates <em>(not found)</em></td></tr>
-<tr><td><a href="https://github.com/steelburn/gllb-load-balancer">steelburn/gllb-load-balancer</a></td><td>Generic Linux Load Balancer</td></tr>
+<tr><td colspan="2">steelburn/gllb-load-balancer <em>(not found)</em></td></tr>
 <tr><td colspan="2">steelburn/windmill <em>(not found)</em></td></tr>
 </tbody></table>
 
