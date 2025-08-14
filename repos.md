@@ -110,7 +110,7 @@ title: Repositories
 <tr><td colspan="2">steelburn/rengine <em>(not found)</em></td></tr>
 <tr><td colspan="2">steelburn/nuclei <em>(not found)</em></td></tr>
 <tr><td colspan="2">steelburn/offsec-tools <em>(not found)</em></td></tr>
-<tr><td colspan="2">steelburn/faraday <em>(not found)</em></td></tr>
+<tr><td><a href="https://github.com/steelburn/faraday">steelburn/faraday</a></td><td>Open Source Vulnerability Management Platform</td></tr>
 <tr><td><a href="https://github.com/steelburn/BurpSuite-Professional-Latest">steelburn/BurpSuite-Professional-Latest</a></td><td>Burpsuite Professional v2024.* with License Key Generator</td></tr>
 <tr><td colspan="2">steelburn/w3af <em>(not found)</em></td></tr>
 <tr><td colspan="2">steelburn/vulnreport <em>(not found)</em></td></tr>
@@ -196,11 +196,11 @@ title: Repositories
 <tr><td><a href="https://github.com/steelburn/activepieces">steelburn/activepieces</a></td><td>AI Agents & MCPs & AI Workflow Automation • (280+ MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents</td></tr>
 <tr><td><a href="https://github.com/steelburn/LocalAI">steelburn/LocalAI</a></td><td>:robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P inference</td></tr>
 <tr><td><a href="https://github.com/steelburn/Flowise">steelburn/Flowise</a></td><td>Drag & drop UI to build your customized LLM flow</td></tr>
-<tr><td colspan="2">steelburn/free-llm-api-resources <em>(not found)</em></td></tr>
+<tr><td><a href="https://github.com/steelburn/free-llm-api-resources">steelburn/free-llm-api-resources</a></td><td>A list of free LLM inference resources accessible via API.</td></tr>
 <tr><td><a href="https://github.com/steelburn/botpress">steelburn/botpress</a></td><td>The open-source hub to build & deploy GPT/LLM Agents ⚡️</td></tr>
 <tr><td colspan="2">steelburn/open-notebook <em>(not found)</em></td></tr>
 <tr><td colspan="2">steelburn/quivr <em>(not found)</em></td></tr>
-<tr><td colspan="2">steelburn/firecrawl <em>(not found)</em></td></tr>
+<tr><td><a href="https://github.com/steelburn/firecrawl">steelburn/firecrawl</a></td><td>🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.</td></tr>
 <tr><td colspan="2">steelburn/llama.cpp <em>(not found)</em></td></tr>
 <tr><td><a href="https://github.com/steelburn/Zonos">steelburn/Zonos</a></td><td>Zonos-v0.1 is a leading open-weight text-to-speech model trained on more than 200k hours of varied multilingual speech, delivering expressiveness and quality on par with—or even surpassing—top TTS providers.</td></tr>
 <tr><td><a href="https://github.com/steelburn/Fooocus">steelburn/Fooocus</a></td><td>Focus on prompting and generating</td></tr>
