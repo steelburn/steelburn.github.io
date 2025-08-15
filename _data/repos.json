@@ -327,25 +327,4 @@
   "html_url": "https://github.com/steelburn/excel4node",
   "description": "Node module to allow for easy Excel file creation"
 }
-,
-{
-  "name": "faraday",
-  "full_name": "steelburn/faraday",
-  "html_url": "https://github.com/steelburn/faraday",
-  "description": "Open Source Vulnerability Management Platform"
-}
-,
-{
-  "name": "firecrawl",
-  "full_name": "steelburn/firecrawl",
-  "html_url": "https://github.com/steelburn/firecrawl",
-  "description": "🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API."
-}
-,
-{
-  "name": "free-llm-api-resources",
-  "full_name": "steelburn/free-llm-api-resources",
-  "html_url": "https://github.com/steelburn/free-llm-api-resources",
-  "description": "A list of free LLM inference resources accessible via API."
-}
 ]
