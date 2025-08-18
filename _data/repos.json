@@ -369,4 +369,39 @@
   "html_url": "https://github.com/steelburn/gllb-load-balancer",
   "description": "Generic Linux Load Balancer"
 }
+,
+{
+  "name": "goblueprints",
+  "full_name": "steelburn/goblueprints",
+  "html_url": "https://github.com/steelburn/goblueprints",
+  "description": "Source code for Go Programming Blueprints"
+}
+,
+{
+  "name": "gosearch",
+  "full_name": "steelburn/gosearch",
+  "html_url": "https://github.com/steelburn/gosearch",
+  "description": "🔍 Search anyone's digital footprint across 300+ websites"
+}
+,
+{
+  "name": "hoppscotch",
+  "full_name": "steelburn/hoppscotch",
+  "html_url": "https://github.com/steelburn/hoppscotch",
+  "description": "Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)"
+}
+,
+{
+  "name": "icons",
+  "full_name": "steelburn/icons",
+  "html_url": "https://github.com/steelburn/icons",
+  "description": "Collection of icons and logos maintained by the selfh.st team"
+}
+,
+{
+  "name": "imap2rest",
+  "full_name": "steelburn/imap2rest",
+  "html_url": "https://github.com/steelburn/imap2rest",
+  "description": "IMAP to REST interface."
+}
 ]
