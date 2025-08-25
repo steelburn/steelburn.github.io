@@ -348,4 +348,39 @@
   "html_url": "https://github.com/steelburn/free-llm-api-resources",
   "description": "A list of free LLM inference resources accessible via API."
 }
+,
+{
+  "name": "free-programming-books",
+  "full_name": "steelburn/free-programming-books",
+  "html_url": "https://github.com/steelburn/free-programming-books",
+  "description": ":books: Freely available programming books"
+}
+,
+{
+  "name": "fusio-api",
+  "full_name": "steelburn/fusio-api",
+  "html_url": "https://github.com/steelburn/fusio-api",
+  "description": "Open source API management platform"
+}
+,
+{
+  "name": "gllb-load-balancer",
+  "full_name": "steelburn/gllb-load-balancer",
+  "html_url": "https://github.com/steelburn/gllb-load-balancer",
+  "description": "Generic Linux Load Balancer"
+}
+,
+{
+  "name": "goblueprints",
+  "full_name": "steelburn/goblueprints",
+  "html_url": "https://github.com/steelburn/goblueprints",
+  "description": "Source code for Go Programming Blueprints"
+}
+,
+{
+  "name": "gosearch",
+  "full_name": "steelburn/gosearch",
+  "html_url": "https://github.com/steelburn/gosearch",
+  "description": "🔍 Search anyone's digital footprint across 300+ websites"
+}
 ]
