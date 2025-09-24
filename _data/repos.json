@@ -96,4 +96,298 @@
   "html_url": "https://github.com/steelburn/Nightingale",
   "description": "It's a Docker Environment for pentesting which having all the required tool for VAPT."
 }
+,
+{
+  "name": "OWASP-CheatSheetSeries",
+  "full_name": "steelburn/OWASP-CheatSheetSeries",
+  "html_url": "https://github.com/steelburn/OWASP-CheatSheetSeries",
+  "description": "The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics."
+}
+,
+{
+  "name": "OpenAPI-Specification",
+  "full_name": "steelburn/OpenAPI-Specification",
+  "html_url": "https://github.com/steelburn/OpenAPI-Specification",
+  "description": "The OpenAPI Specification Repository"
+}
+,
+{
+  "name": "OrgChart",
+  "full_name": "steelburn/OrgChart",
+  "html_url": "https://github.com/steelburn/OrgChart",
+  "description": "It's a simple and direct organization chart plugin. Anytime you want a tree-like chart, you can turn to OrgChart."
+}
+,
+{
+  "name": "Python-Algorithms",
+  "full_name": "steelburn/Python-Algorithms",
+  "html_url": "https://github.com/steelburn/Python-Algorithms",
+  "description": "All Algorithms implemented in Python"
+}
+,
+{
+  "name": "SecLists",
+  "full_name": "steelburn/SecLists",
+  "html_url": "https://github.com/steelburn/SecLists",
+  "description": "SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more."
+}
+,
+{
+  "name": "Skeleton",
+  "full_name": "steelburn/Skeleton",
+  "html_url": "https://github.com/steelburn/Skeleton",
+  "description": "Skeleton: A Dead Simple, Responsive Boilerplate for Mobile-Friendly Development"
+}
+,
+{
+  "name": "Zonos",
+  "full_name": "steelburn/Zonos",
+  "html_url": "https://github.com/steelburn/Zonos",
+  "description": "Zonos-v0.1 is a leading open-weight text-to-speech model trained on more than 200k hours of varied multilingual speech, delivering expressiveness and quality on par with—or even surpassing—top TTS providers."
+}
+,
+{
+  "name": "act",
+  "full_name": "steelburn/act",
+  "html_url": "https://github.com/steelburn/act",
+  "description": "Run your GitHub Actions locally 🚀"
+}
+,
+{
+  "name": "activepieces",
+  "full_name": "steelburn/activepieces",
+  "html_url": "https://github.com/steelburn/activepieces",
+  "description": "AI Agents & MCPs & AI Workflow Automation • (280+ MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents"
+}
+,
+{
+  "name": "ad",
+  "full_name": "steelburn/ad",
+  "html_url": "https://github.com/steelburn/ad",
+  "description": "Making Active Directory jQuery-easy"
+}
+,
+{
+  "name": "addict",
+  "full_name": "steelburn/addict",
+  "html_url": "https://github.com/steelburn/addict",
+  "description": "Get a full Active Directory REST API in 30 seconds"
+}
+,
+{
+  "name": "arachni",
+  "full_name": "steelburn/arachni",
+  "html_url": "https://github.com/steelburn/arachni",
+  "description": "Web Application Security Scanner Framework"
+}
+,
+{
+  "name": "automatic-api",
+  "full_name": "steelburn/automatic-api",
+  "html_url": "https://github.com/steelburn/automatic-api",
+  "description": "A list of software that turns your database into a REST/GraphQL API"
+}
+,
+{
+  "name": "awesome-iam",
+  "full_name": "steelburn/awesome-iam",
+  "html_url": "https://github.com/steelburn/awesome-iam",
+  "description": "👤 Identity and Access Management knowledge for cloud platforms"
+}
+,
+{
+  "name": "awesome-oss-alternatives",
+  "full_name": "steelburn/awesome-oss-alternatives",
+  "html_url": "https://github.com/steelburn/awesome-oss-alternatives",
+  "description": "Awesome list of open-source startup alternatives to well-known SaaS products 🚀"
+}
+,
+{
+  "name": "awesome-selfhosted",
+  "full_name": "steelburn/awesome-selfhosted",
+  "html_url": "https://github.com/steelburn/awesome-selfhosted",
+  "description": "A list of Free Software network services and web applications which can be hosted on your own servers"
+}
+,
+{
+  "name": "awesome-software-quality",
+  "full_name": "steelburn/awesome-software-quality",
+  "html_url": "https://github.com/steelburn/awesome-software-quality",
+  "description": "Software Quality Wiki"
+}
+,
+{
+  "name": "botpress",
+  "full_name": "steelburn/botpress",
+  "html_url": "https://github.com/steelburn/botpress",
+  "description": "The open-source hub to build & deploy GPT/LLM Agents ⚡️"
+}
+,
+{
+  "name": "build-your-own-x",
+  "full_name": "steelburn/build-your-own-x",
+  "html_url": "https://github.com/steelburn/build-your-own-x",
+  "description": "Master programming by recreating your favorite technologies from scratch."
+}
+,
+{
+  "name": "bulma",
+  "full_name": "steelburn/bulma",
+  "html_url": "https://github.com/steelburn/bulma",
+  "description": "Modern CSS framework based on Flexbox"
+}
+,
+{
+  "name": "bunkerweb",
+  "full_name": "steelburn/bunkerweb",
+  "html_url": "https://github.com/steelburn/bunkerweb",
+  "description": "🛡️ Make your web services secure by default !"
+}
+,
+{
+  "name": "code-server",
+  "full_name": "steelburn/code-server",
+  "html_url": "https://github.com/steelburn/code-server",
+  "description": "VS Code in the browser"
+}
+,
+{
+  "name": "crate",
+  "full_name": "steelburn/crate",
+  "html_url": "https://github.com/steelburn/crate",
+  "description": "CrateDB is a distributed SQL database that makes it simple to store and analyze massive amounts of machine data in real-time. Built on top of Lucene."
+}
+,
+{
+  "name": "crossfilter",
+  "full_name": "steelburn/crossfilter",
+  "html_url": "https://github.com/steelburn/crossfilter",
+  "description": "Fast n-dimensional filtering and grouping of records."
+}
+,
+{
+  "name": "dbdiagram-oss-wrep",
+  "full_name": "steelburn/dbdiagram-oss-wrep",
+  "html_url": "https://github.com/steelburn/dbdiagram-oss-wrep",
+  "description": "Open-Source Implementation of the great dbdiagram.io"
+}
+,
+{
+  "name": "dc.js",
+  "full_name": "steelburn/dc.js",
+  "html_url": "https://github.com/steelburn/dc.js",
+  "description": "Multi-Dimensional charting built to work natively with crossfilter rendered with d3.js"
+}
+,
+{
+  "name": "deploy-code-server",
+  "full_name": "steelburn/deploy-code-server",
+  "html_url": "https://github.com/steelburn/deploy-code-server",
+  "description": "Deploy code-server to the cloud with a few clicks ☁️ 👨🏼‍💻"
+}
+,
+{
+  "name": "dify",
+  "full_name": "steelburn/dify",
+  "html_url": "https://github.com/steelburn/dify",
+  "description": "Production-ready platform for agentic workflow development."
+}
+,
+{
+  "name": "drawdb",
+  "full_name": "steelburn/drawdb",
+  "html_url": "https://github.com/steelburn/drawdb",
+  "description": "Free, simple, and intuitive online database diagram editor and SQL generator."
+}
+,
+{
+  "name": "dreamfactory_2.14.2",
+  "full_name": "steelburn/dreamfactory_2.14.2",
+  "html_url": "https://github.com/steelburn/dreamfactory_2.14.2",
+  "description": "Community Version of DreamFactory from 2.14.2"
+}
+,
+{
+  "name": "emoji-cheat-sheet",
+  "full_name": "steelburn/emoji-cheat-sheet",
+  "html_url": "https://github.com/steelburn/emoji-cheat-sheet",
+  "description": "A markdown version emoji cheat sheet"
+}
+,
+{
+  "name": "exam-testing-engine-vumingo",
+  "full_name": "steelburn/exam-testing-engine-vumingo",
+  "html_url": "https://github.com/steelburn/exam-testing-engine-vumingo",
+  "description": "Free  full version of exam testing engine vumingo"
+}
+,
+{
+  "name": "excel4node",
+  "full_name": "steelburn/excel4node",
+  "html_url": "https://github.com/steelburn/excel4node",
+  "description": "Node module to allow for easy Excel file creation"
+}
+,
+{
+  "name": "faraday",
+  "full_name": "steelburn/faraday",
+  "html_url": "https://github.com/steelburn/faraday",
+  "description": "Open Source Vulnerability Management Platform"
+}
+,
+{
+  "name": "firecrawl",
+  "full_name": "steelburn/firecrawl",
+  "html_url": "https://github.com/steelburn/firecrawl",
+  "description": "🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API."
+}
+,
+{
+  "name": "free-llm-api-resources",
+  "full_name": "steelburn/free-llm-api-resources",
+  "html_url": "https://github.com/steelburn/free-llm-api-resources",
+  "description": "A list of free LLM inference resources accessible via API."
+}
+,
+{
+  "name": "free-programming-books",
+  "full_name": "steelburn/free-programming-books",
+  "html_url": "https://github.com/steelburn/free-programming-books",
+  "description": ":books: Freely available programming books"
+}
+,
+{
+  "name": "fusio-api",
+  "full_name": "steelburn/fusio-api",
+  "html_url": "https://github.com/steelburn/fusio-api",
+  "description": "Open source API management platform"
+}
+,
+{
+  "name": "gllb-load-balancer",
+  "full_name": "steelburn/gllb-load-balancer",
+  "html_url": "https://github.com/steelburn/gllb-load-balancer",
+  "description": "Generic Linux Load Balancer"
+}
+,
+{
+  "name": "goblueprints",
+  "full_name": "steelburn/goblueprints",
+  "html_url": "https://github.com/steelburn/goblueprints",
+  "description": "Source code for Go Programming Blueprints"
+}
+,
+{
+  "name": "gosearch",
+  "full_name": "steelburn/gosearch",
+  "html_url": "https://github.com/steelburn/gosearch",
+  "description": "🔍 Search anyone's digital footprint across 300+ websites"
+}
+,
+{
+  "name": "hoppscotch",
+  "full_name": "steelburn/hoppscotch",
+  "html_url": "https://github.com/steelburn/hoppscotch",
+  "description": "Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)"
+}
 ]
