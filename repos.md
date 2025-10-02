@@ -37,7 +37,7 @@ title: Repositories
 <tr><td><a href="https://github.com/steelburn/OrgChart">steelburn/OrgChart</a></td><td>It's a simple and direct organization chart plugin. Anytime you want a tree-like chart, you can turn to OrgChart.</td></tr>
 <tr><td><a href="https://github.com/steelburn/bulma">steelburn/bulma</a></td><td>Modern CSS framework based on Flexbox</td></tr>
 <tr><td><a href="https://github.com/steelburn/Meshki">steelburn/Meshki</a></td><td>Meshki: A Black-Colored, Responsive Boilerplate for UI Development</td></tr>
-<tr><td><a href="https://github.com/steelburn/excel4node">steelburn/excel4node</a></td><td>Node module to allow for easy Excel file creation</td></tr>
+<tr><td colspan="2">steelburn/excel4node <em>(not found)</em></td></tr>
 <tr><td colspan="2">steelburn/vis <em>(not found)</em></td></tr>
 <tr><td colspan="2">steelburn/melody <em>(not found)</em></td></tr>
 <tr><td><a href="https://github.com/steelburn/ad">steelburn/ad</a></td><td>Making Active Directory jQuery-easy</td></tr>
@@ -60,7 +60,7 @@ title: Repositories
 <tr><td><a href="https://github.com/steelburn/build-your-own-x">steelburn/build-your-own-x</a></td><td>Master programming by recreating your favorite technologies from scratch.</td></tr>
 <tr><td colspan="2">steelburn/free-programming-books <em>(not found)</em></td></tr>
 <tr><td><a href="https://github.com/steelburn/awesome-oss-alternatives">steelburn/awesome-oss-alternatives</a></td><td>Awesome list of open-source startup alternatives to well-known SaaS products 🚀</td></tr>
-<tr><td><a href="https://github.com/steelburn/emoji-cheat-sheet">steelburn/emoji-cheat-sheet</a></td><td>A markdown version emoji cheat sheet</td></tr>
+<tr><td colspan="2">steelburn/emoji-cheat-sheet <em>(not found)</em></td></tr>
 <tr><td colspan="2">steelburn/openapi-directory <em>(not found)</em></td></tr>
 <tr><td><a href="https://github.com/steelburn/OpenAPI-Specification">steelburn/OpenAPI-Specification</a></td><td>The OpenAPI Specification Repository</td></tr>
 <tr><td><a href="https://github.com/steelburn/Complete-System-Design">steelburn/Complete-System-Design</a></td><td>This repository contains everything you need to become proficient in System Design</td></tr>
@@ -178,7 +178,7 @@ title: Repositories
 <tbody>
 <tr><td><a href="https://github.com/steelburn/DeepNotes">steelburn/DeepNotes</a></td><td>End-to-end encrypted visual note-taking tool with deep page navigation. </td></tr>
 <tr><td colspan="2">steelburn/tuturbaca <em>(not found)</em></td></tr>
-<tr><td><a href="https://github.com/steelburn/exam-testing-engine-vumingo">steelburn/exam-testing-engine-vumingo</a></td><td>Free  full version of exam testing engine vumingo</td></tr>
+<tr><td colspan="2">steelburn/exam-testing-engine-vumingo <em>(not found)</em></td></tr>
 <tr><td><a href="https://github.com/steelburn/AFFiNE">steelburn/AFFiNE</a></td><td>There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. </td></tr>
 <tr><td colspan="2">steelburn/starbase-80 <em>(not found)</em></td></tr>
 </tbody></table>
