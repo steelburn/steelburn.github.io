@@ -1,0 +1,126 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Custom Table Styling */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 20px 0;
+  background-color: #fff;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+table thead {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  color: #fff;
+}
+
+table thead th {
+  padding: 15px 20px;
+  text-align: left;
+  font-weight: 600;
+  font-size: 14px;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  border: none;
+}
+
+table tbody tr {
+  border-bottom: 1px solid #e8e8e8;
+  transition: all 0.3s ease;
+}
+
+table tbody tr:last-child {
+  border-bottom: none;
+}
+
+table tbody tr:hover {
+  background-color: #f8f9fa;
+  transform: translateX(2px);
+  box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+}
+
+table tbody td {
+  padding: 15px 20px;
+  font-size: 14px;
+  color: #333;
+}
+
+table tbody td a {
+  color: #667eea;
+  text-decoration: none;
+  font-weight: 500;
+  transition: color 0.3s ease;
+}
+
+table tbody td a:hover {
+  color: #764ba2;
+  text-decoration: underline;
+}
+
+table tbody td em {
+  color: #999;
+  font-style: italic;
+}
+
+/* Category Headings */
+h2 {
+  margin-top: 40px;
+  margin-bottom: 20px;
+  color: #333;
+  font-size: 24px;
+  font-weight: 700;
+  padding-bottom: 10px;
+  border-bottom: 3px solid #667eea;
+  display: inline-block;
+}
+
+/* Responsive Table */
+@media (max-width: 768px) {
+  table {
+    font-size: 12px;
+  }
+  
+  table thead th,
+  table tbody td {
+    padding: 10px 12px;
+  }
+  
+  h2 {
+    font-size: 20px;
+  }
+}
+
+/* Main page heading */
+h1#repositories-by-category {
+  color: #333;
+  font-size: 32px;
+  font-weight: 700;
+  margin-bottom: 30px;
+  text-align: center;
+  padding: 20px 0;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+/* Alternating row colors for better readability */
+table tbody tr:nth-child(even) {
+  background-color: #fafafa;
+}
+
+table tbody tr:nth-child(even):hover {
+  background-color: #f0f0f0;
+}
+
+/* Better spacing for "not found" entries */
+table tbody td[colspan="2"] {
+  color: #999;
+  font-style: italic;
+  padding: 10px 20px;
+}
