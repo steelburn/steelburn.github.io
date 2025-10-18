@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ## Introducing... me!
 
 Hello there. I'm Khairulnizam. steelburn is my Internet nickname. You can call me KN.
