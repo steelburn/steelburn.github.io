@@ -16,13 +16,13 @@ title: Repositories
 <tr><td colspan="2">steelburn/public-api-lists <em>(not found)</em></td></tr>
 <tr><td colspan="2">steelburn/public-apis <em>(not found)</em></td></tr>
 <tr><td><a href="https://github.com/steelburn/automatic-api">steelburn/automatic-api</a></td><td>A list of software that turns your database into a REST/GraphQL API</td></tr>
-<tr><td colspan="2">steelburn/tyk-api <em>(not found)</em></td></tr>
+<tr><td><a href="https://github.com/steelburn/tyk-api">steelburn/tyk-api</a></td><td>Tyk Open Source API Gateway written in Go, supporting REST, GraphQL, TCP and gRPC protocols</td></tr>
 <tr><td colspan="2">steelburn/php-crud-api <em>(not found)</em></td></tr>
 <tr><td colspan="2">steelburn/openapi-directory <em>(not found)</em></td></tr>
 <tr><td><a href="https://github.com/steelburn/addict">steelburn/addict</a></td><td>Get a full Active Directory REST API in 30 seconds</td></tr>
 <tr><td colspan="2">steelburn/sheets-api <em>(not found)</em></td></tr>
 <tr><td colspan="2">steelburn/crud-api <em>(not found)</em></td></tr>
-<tr><td colspan="2">steelburn/xgenecloud <em>(not found)</em></td></tr>
+<tr><td><a href="https://github.com/steelburn/xgenecloud">steelburn/xgenecloud</a></td><td>•:fire: •:fire: •:fire: • Instantly generate REST & GraphQL APIs on any Database (Supports : MySQL, PostgreSQL, MsSQL, SQLite, MariaDB & Aurora)</td></tr>
 <tr><td><a href="https://github.com/steelburn/dreamfactory_2.14.2">steelburn/dreamfactory_2.14.2</a></td><td>Community Version of DreamFactory from 2.14.2</td></tr>
 <tr><td colspan="2">steelburn/php-sp-api <em>(not found)</em></td></tr>
 <tr><td><a href="https://github.com/steelburn/ad">steelburn/ad</a></td><td>Making Active Directory jQuery-easy</td></tr>
@@ -38,7 +38,7 @@ title: Repositories
 <tr><td><a href="https://github.com/steelburn/bulma">steelburn/bulma</a></td><td>Modern CSS framework based on Flexbox</td></tr>
 <tr><td><a href="https://github.com/steelburn/Meshki">steelburn/Meshki</a></td><td>Meshki: A Black-Colored, Responsive Boilerplate for UI Development</td></tr>
 <tr><td><a href="https://github.com/steelburn/excel4node">steelburn/excel4node</a></td><td>Node module to allow for easy Excel file creation</td></tr>
-<tr><td colspan="2">steelburn/vis <em>(not found)</em></td></tr>
+<tr><td><a href="https://github.com/steelburn/vis">steelburn/vis</a></td><td>vis.js is a dynamic, browser-based visualization library</td></tr>
 <tr><td colspan="2">steelburn/melody <em>(not found)</em></td></tr>
 <tr><td><a href="https://github.com/steelburn/ad">steelburn/ad</a></td><td>Making Active Directory jQuery-easy</td></tr>
 <tr><td><a href="https://github.com/steelburn/Skeleton">steelburn/Skeleton</a></td><td>Skeleton: A Dead Simple, Responsive Boilerplate for Mobile-Friendly Development</td></tr>
@@ -85,7 +85,7 @@ title: Repositories
 <tr><td colspan="2">steelburn/nginx-with-letsencrypt <em>(not found)</em></td></tr>
 <tr><td colspan="2">steelburn/portainer-templates <em>(not found)</em></td></tr>
 <tr><td><a href="https://github.com/steelburn/gllb-load-balancer">steelburn/gllb-load-balancer</a></td><td>Generic Linux Load Balancer</td></tr>
-<tr><td colspan="2">steelburn/windmill <em>(not found)</em></td></tr>
+<tr><td><a href="https://github.com/steelburn/windmill">steelburn/windmill</a></td><td>Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.</td></tr>
 </tbody></table>
 
 ## SecOps
@@ -100,20 +100,20 @@ title: Repositories
 <tr><td colspan="2">steelburn/reconmap <em>(not found)</em></td></tr>
 <tr><td><a href="https://github.com/steelburn/bunkerweb">steelburn/bunkerweb</a></td><td>🛡️ Make your web services secure by default !</td></tr>
 <tr><td><a href="https://github.com/steelburn/awesome-iam">steelburn/awesome-iam</a></td><td>👤 Identity and Access Management knowledge for cloud platforms</td></tr>
-<tr><td colspan="2">steelburn/vulnrepo <em>(not found)</em></td></tr>
+<tr><td><a href="https://github.com/steelburn/vulnrepo">steelburn/vulnrepo</a></td><td>VULNRΞPO - Free vulnerability report generator and repository end-to-end encrypted. Complete templates of issues, CWE, CVE, MITRE ATT&CK, PCI DSS, issues import Nmap/Nessus/Burp/OpenVAS/Bugcrowd/Trivy, Jira export, TXT/JSON/MARKDOWN/HTML/PDF report, attachments, automatic changelog, statistics, vulnerability management, methodologies and much more!</td></tr>
 <tr><td><a href="https://github.com/steelburn/gosearch">steelburn/gosearch</a></td><td>🔍 Search anyone's digital footprint across 300+ websites</td></tr>
 <tr><td><a href="https://github.com/steelburn/arachni">steelburn/arachni</a></td><td>Web Application Security Scanner Framework</td></tr>
 <tr><td colspan="2">steelburn/nginx-proxy-manager <em>(not found)</em></td></tr>
 <tr><td colspan="2">steelburn/owtf <em>(not found)</em></td></tr>
-<tr><td colspan="2">steelburn/vapi <em>(not found)</em></td></tr>
+<tr><td><a href="https://github.com/steelburn/vapi">steelburn/vapi</a></td><td>vAPI is Vulnerable Adversely Programmed Interface which is Self-Hostable API that mimics OWASP API Top 10 scenarios through Exercises.</td></tr>
 <tr><td><a href="https://github.com/steelburn/MalwareSourceCode">steelburn/MalwareSourceCode</a></td><td>Collection of malware source code for a variety of platforms in an array of different programming languages.</td></tr>
 <tr><td colspan="2">steelburn/rengine <em>(not found)</em></td></tr>
 <tr><td colspan="2">steelburn/nuclei <em>(not found)</em></td></tr>
 <tr><td colspan="2">steelburn/offsec-tools <em>(not found)</em></td></tr>
 <tr><td><a href="https://github.com/steelburn/faraday">steelburn/faraday</a></td><td>Open Source Vulnerability Management Platform</td></tr>
 <tr><td><a href="https://github.com/steelburn/BurpSuite-Professional-Latest">steelburn/BurpSuite-Professional-Latest</a></td><td>Burpsuite Professional v2024.* with License Key Generator</td></tr>
-<tr><td colspan="2">steelburn/w3af <em>(not found)</em></td></tr>
-<tr><td colspan="2">steelburn/vulnreport <em>(not found)</em></td></tr>
+<tr><td><a href="https://github.com/steelburn/w3af">steelburn/w3af</a></td><td>w3af: web application attack and audit framework, the open source web vulnerability scanner.</td></tr>
+<tr><td><a href="https://github.com/steelburn/vulnreport">steelburn/vulnreport</a></td><td>Open-source pentesting management and automation platform by Salesforce Product Security</td></tr>
 <tr><td colspan="2">steelburn/nginx-with-letsencrypt <em>(not found)</em></td></tr>
 </tbody></table>
 
@@ -123,12 +123,12 @@ title: Repositories
 <thead><tr><th>Repository</th><th>Description</th></tr></thead>
 <tbody>
 <tr><td colspan="2">steelburn/lightdash <em>(not found)</em></td></tr>
-<tr><td colspan="2">steelburn/vega <em>(not found)</em></td></tr>
+<tr><td><a href="https://github.com/steelburn/vega">steelburn/vega</a></td><td>A visualization grammar.</td></tr>
 <tr><td colspan="2">steelburn/metabase <em>(not found)</em></td></tr>
 <tr><td colspan="2">steelburn/superset <em>(not found)</em></td></tr>
 <tr><td colspan="2">steelburn/redash <em>(not found)</em></td></tr>
 <tr><td><a href="https://github.com/steelburn/dc.js">steelburn/dc.js</a></td><td>Multi-Dimensional charting built to work natively with crossfilter rendered with d3.js</td></tr>
-<tr><td colspan="2">steelburn/vis <em>(not found)</em></td></tr>
+<tr><td><a href="https://github.com/steelburn/vis">steelburn/vis</a></td><td>vis.js is a dynamic, browser-based visualization library</td></tr>
 </tbody></table>
 
 ## DevTools
@@ -144,7 +144,7 @@ title: Repositories
 <tr><td colspan="2">steelburn/it-tools <em>(not found)</em></td></tr>
 <tr><td colspan="2">steelburn/php-code-quality <em>(not found)</em></td></tr>
 <tr><td colspan="2">steelburn/phpchecker <em>(not found)</em></td></tr>
-<tr><td colspan="2">steelburn/windmill <em>(not found)</em></td></tr>
+<tr><td><a href="https://github.com/steelburn/windmill">steelburn/windmill</a></td><td>Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.</td></tr>
 </tbody></table>
 
 ## DataOps
@@ -155,8 +155,8 @@ title: Repositories
 <tr><td><a href="https://github.com/steelburn/drawdb">steelburn/drawdb</a></td><td>Free, simple, and intuitive online database diagram editor and SQL generator.</td></tr>
 <tr><td colspan="2">steelburn/rclone <em>(not found)</em></td></tr>
 <tr><td colspan="2">steelburn/lightdash <em>(not found)</em></td></tr>
-<tr><td colspan="2">steelburn/vega <em>(not found)</em></td></tr>
-<tr><td colspan="2">steelburn/teable <em>(not found)</em></td></tr>
+<tr><td><a href="https://github.com/steelburn/vega">steelburn/vega</a></td><td>A visualization grammar.</td></tr>
+<tr><td><a href="https://github.com/steelburn/teable">steelburn/teable</a></td><td>✨ The Next Gen Airtable Alternative: No-Code Postgres</td></tr>
 <tr><td colspan="2">steelburn/miller <em>(not found)</em></td></tr>
 <tr><td colspan="2">steelburn/metabase <em>(not found)</em></td></tr>
 <tr><td><a href="https://github.com/steelburn/crate">steelburn/crate</a></td><td>CrateDB is a distributed SQL database that makes it simple to store and analyze massive amounts of machine data in real-time. Built on top of Lucene.</td></tr>
@@ -164,11 +164,11 @@ title: Repositories
 <tr><td><a href="https://github.com/steelburn/dbdiagram-oss-wrep">steelburn/dbdiagram-oss-wrep</a></td><td>Open-Source Implementation of the great dbdiagram.io</td></tr>
 <tr><td colspan="2">steelburn/talend-open-studio <em>(not found)</em></td></tr>
 <tr><td><a href="https://github.com/steelburn/dc.js">steelburn/dc.js</a></td><td>Multi-Dimensional charting built to work natively with crossfilter rendered with d3.js</td></tr>
-<tr><td colspan="2">steelburn/vis <em>(not found)</em></td></tr>
-<tr><td colspan="2">steelburn/xgenecloud <em>(not found)</em></td></tr>
+<tr><td><a href="https://github.com/steelburn/vis">steelburn/vis</a></td><td>vis.js is a dynamic, browser-based visualization library</td></tr>
+<tr><td><a href="https://github.com/steelburn/xgenecloud">steelburn/xgenecloud</a></td><td>•:fire: •:fire: •:fire: • Instantly generate REST & GraphQL APIs on any Database (Supports : MySQL, PostgreSQL, MsSQL, SQLite, MariaDB & Aurora)</td></tr>
 <tr><td colspan="2">steelburn/superset <em>(not found)</em></td></tr>
 <tr><td><a href="https://github.com/steelburn/crossfilter">steelburn/crossfilter</a></td><td>Fast n-dimensional filtering and grouping of records.</td></tr>
-<tr><td colspan="2">steelburn/vanna <em>(not found)</em></td></tr>
+<tr><td><a href="https://github.com/steelburn/vanna">steelburn/vanna</a></td><td>🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using RAG 🔄.</td></tr>
 </tbody></table>
 
 ## Common Tools
@@ -177,7 +177,7 @@ title: Repositories
 <thead><tr><th>Repository</th><th>Description</th></tr></thead>
 <tbody>
 <tr><td><a href="https://github.com/steelburn/DeepNotes">steelburn/DeepNotes</a></td><td>End-to-end encrypted visual note-taking tool with deep page navigation. </td></tr>
-<tr><td colspan="2">steelburn/tuturbaca <em>(not found)</em></td></tr>
+<tr><td><a href="https://github.com/steelburn/tuturbaca">steelburn/tuturbaca</a></td><td>Alat alternatif untuk membantu kanak-kanak belajar membaca daripada pertuturan mereka sendiri.</td></tr>
 <tr><td><a href="https://github.com/steelburn/exam-testing-engine-vumingo">steelburn/exam-testing-engine-vumingo</a></td><td>Free  full version of exam testing engine vumingo</td></tr>
 <tr><td><a href="https://github.com/steelburn/AFFiNE">steelburn/AFFiNE</a></td><td>There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. </td></tr>
 <tr><td colspan="2">steelburn/starbase-80 <em>(not found)</em></td></tr>
@@ -208,7 +208,7 @@ title: Repositories
 <tr><td colspan="2">steelburn/stablediffusion <em>(not found)</em></td></tr>
 <tr><td colspan="2">steelburn/style2paints <em>(not found)</em></td></tr>
 <tr><td colspan="2">steelburn/mem0 <em>(not found)</em></td></tr>
-<tr><td colspan="2">steelburn/vanna <em>(not found)</em></td></tr>
+<tr><td><a href="https://github.com/steelburn/vanna">steelburn/vanna</a></td><td>🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using RAG 🔄.</td></tr>
 <tr><td><a href="https://github.com/steelburn/ClaraVerse">steelburn/ClaraVerse</a></td><td>Clara — Privacy-first, fully local AI workspace with Ollama LLM chat, tool calling, agent builder, Stable Diffusion, and embedded n8n-style automation. No backend. No API keys. Just your stack, your machine.</td></tr>
 </tbody></table>
 
