@@ -187,4 +187,81 @@
   "html_url": "https://github.com/steelburn/automatic-api",
   "description": "A list of software that turns your database into a REST/GraphQL API"
 }
+,
+{
+  "name": "awesome-iam",
+  "full_name": "steelburn/awesome-iam",
+  "html_url": "https://github.com/steelburn/awesome-iam",
+  "description": "👤 Identity and Access Management knowledge for cloud platforms"
+}
+,
+{
+  "name": "awesome-oss-alternatives",
+  "full_name": "steelburn/awesome-oss-alternatives",
+  "html_url": "https://github.com/steelburn/awesome-oss-alternatives",
+  "description": "Awesome list of open-source startup alternatives to well-known SaaS products 🚀"
+}
+,
+{
+  "name": "awesome-selfhosted",
+  "full_name": "steelburn/awesome-selfhosted",
+  "html_url": "https://github.com/steelburn/awesome-selfhosted",
+  "description": "A list of Free Software network services and web applications which can be hosted on your own servers"
+}
+,
+{
+  "name": "awesome-software-quality",
+  "full_name": "steelburn/awesome-software-quality",
+  "html_url": "https://github.com/steelburn/awesome-software-quality",
+  "description": "Software Quality Wiki"
+}
+,
+{
+  "name": "botpress",
+  "full_name": "steelburn/botpress",
+  "html_url": "https://github.com/steelburn/botpress",
+  "description": "The open-source hub to build & deploy GPT/LLM Agents ⚡️"
+}
+,
+{
+  "name": "build-your-own-x",
+  "full_name": "steelburn/build-your-own-x",
+  "html_url": "https://github.com/steelburn/build-your-own-x",
+  "description": "Master programming by recreating your favorite technologies from scratch."
+}
+,
+{
+  "name": "bulma",
+  "full_name": "steelburn/bulma",
+  "html_url": "https://github.com/steelburn/bulma",
+  "description": "Modern CSS framework based on Flexbox"
+}
+,
+{
+  "name": "bunkerweb",
+  "full_name": "steelburn/bunkerweb",
+  "html_url": "https://github.com/steelburn/bunkerweb",
+  "description": "🛡️ Make your web services secure by default !"
+}
+,
+{
+  "name": "code-server",
+  "full_name": "steelburn/code-server",
+  "html_url": "https://github.com/steelburn/code-server",
+  "description": "VS Code in the browser"
+}
+,
+{
+  "name": "crate",
+  "full_name": "steelburn/crate",
+  "html_url": "https://github.com/steelburn/crate",
+  "description": "CrateDB is a distributed SQL database that makes it simple to store and analyze massive amounts of machine data in real-time. Built on top of Lucene."
+}
+,
+{
+  "name": "crossfilter",
+  "full_name": "steelburn/crossfilter",
+  "html_url": "https://github.com/steelburn/crossfilter",
+  "description": "Fast n-dimensional filtering and grouping of records."
+}
 ]
