@@ -334,32 +334,4 @@
   "html_url": "https://github.com/steelburn/faraday",
   "description": "Open Source Vulnerability Management Platform"
 }
-,
-{
-  "name": "firecrawl",
-  "full_name": "steelburn/firecrawl",
-  "html_url": "https://github.com/steelburn/firecrawl",
-  "description": "🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API."
-}
-,
-{
-  "name": "free-llm-api-resources",
-  "full_name": "steelburn/free-llm-api-resources",
-  "html_url": "https://github.com/steelburn/free-llm-api-resources",
-  "description": "A list of free LLM inference resources accessible via API."
-}
-,
-{
-  "name": "free-programming-books",
-  "full_name": "steelburn/free-programming-books",
-  "html_url": "https://github.com/steelburn/free-programming-books",
-  "description": ":books: Freely available programming books"
-}
-,
-{
-  "name": "fusio-api",
-  "full_name": "steelburn/fusio-api",
-  "html_url": "https://github.com/steelburn/fusio-api",
-  "description": "Open source API management platform"
-}
 ]
