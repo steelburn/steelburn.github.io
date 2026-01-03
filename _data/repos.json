@@ -385,93 +385,9 @@
 }
 ,
 {
-  "name": "talend-open-studio",
-  "full_name": "steelburn/talend-open-studio",
-  "html_url": "https://github.com/steelburn/talend-open-studio",
-  "description": "null"
-}
-,
-{
-  "name": "teable",
-  "full_name": "steelburn/teable",
-  "html_url": "https://github.com/steelburn/teable",
-  "description": "✨ The Next Gen Airtable Alternative: No-Code Postgres"
-}
-,
-{
-  "name": "tuturbaca",
-  "full_name": "steelburn/tuturbaca",
-  "html_url": "https://github.com/steelburn/tuturbaca",
-  "description": "Alat alternatif untuk membantu kanak-kanak belajar membaca daripada pertuturan mereka sendiri."
-}
-,
-{
-  "name": "tyk-api",
-  "full_name": "steelburn/tyk-api",
-  "html_url": "https://github.com/steelburn/tyk-api",
-  "description": "Tyk Open Source API Gateway written in Go, supporting REST, GraphQL, TCP and gRPC protocols"
-}
-,
-{
-  "name": "vanna",
-  "full_name": "steelburn/vanna",
-  "html_url": "https://github.com/steelburn/vanna",
-  "description": "🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using RAG 🔄."
-}
-,
-{
-  "name": "vapi",
-  "full_name": "steelburn/vapi",
-  "html_url": "https://github.com/steelburn/vapi",
-  "description": "vAPI is Vulnerable Adversely Programmed Interface which is Self-Hostable API that mimics OWASP API Top 10 scenarios through Exercises."
-}
-,
-{
-  "name": "vega",
-  "full_name": "steelburn/vega",
-  "html_url": "https://github.com/steelburn/vega",
-  "description": "A visualization grammar."
-}
-,
-{
-  "name": "vis",
-  "full_name": "steelburn/vis",
-  "html_url": "https://github.com/steelburn/vis",
-  "description": "vis.js is a dynamic, browser-based visualization library"
-}
-,
-{
-  "name": "vulnrepo",
-  "full_name": "steelburn/vulnrepo",
-  "html_url": "https://github.com/steelburn/vulnrepo",
-  "description": "VULNRΞPO - Free vulnerability report generator and repository end-to-end encrypted. Complete templates of issues, CWE, CVE, MITRE ATT&CK, PCI DSS, issues import Nmap/Nessus/Burp/OpenVAS/Bugcrowd/Trivy, Jira export, TXT/JSON/MARKDOWN/HTML/PDF report, attachments, automatic changelog, statistics, vulnerability management, methodologies and much more!"
-}
-,
-{
-  "name": "vulnreport",
-  "full_name": "steelburn/vulnreport",
-  "html_url": "https://github.com/steelburn/vulnreport",
-  "description": "Open-source pentesting management and automation platform by Salesforce Product Security"
-}
-,
-{
-  "name": "w3af",
-  "full_name": "steelburn/w3af",
-  "html_url": "https://github.com/steelburn/w3af",
-  "description": "w3af: web application attack and audit framework, the open source web vulnerability scanner."
-}
-,
-{
-  "name": "windmill",
-  "full_name": "steelburn/windmill",
-  "html_url": "https://github.com/steelburn/windmill",
-  "description": "Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal."
-}
-,
-{
-  "name": "xgenecloud",
-  "full_name": "steelburn/xgenecloud",
-  "html_url": "https://github.com/steelburn/xgenecloud",
-  "description": "•:fire: •:fire: •:fire: • Instantly generate REST & GraphQL APIs on any Database (Supports : MySQL, PostgreSQL, MsSQL, SQLite, MariaDB & Aurora)"
+  "name": "hoppscotch",
+  "full_name": "steelburn/hoppscotch",
+  "html_url": "https://github.com/steelburn/hoppscotch",
+  "description": "Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)"
 }
 ]
