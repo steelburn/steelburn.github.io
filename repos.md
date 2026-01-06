@@ -11,7 +11,7 @@ title: Repositories
 <thead><tr><th>Repository</th><th>Description</th></tr></thead>
 <tbody>
 <tr><td><a href="https://github.com/steelburn/fusio-api">steelburn/fusio-api</a></td><td>Open source API management platform</td></tr>
-<tr><td colspan="2">steelburn/hoppscotch <em>(not found)</em></td></tr>
+<tr><td><a href="https://github.com/steelburn/hoppscotch">steelburn/hoppscotch</a></td><td>Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)</td></tr>
 <tr><td colspan="2">steelburn/stack-on-a-budget <em>(not found)</em></td></tr>
 <tr><td colspan="2">steelburn/public-api-lists <em>(not found)</em></td></tr>
 <tr><td colspan="2">steelburn/public-apis <em>(not found)</em></td></tr>
@@ -26,7 +26,7 @@ title: Repositories
 <tr><td><a href="https://github.com/steelburn/dreamfactory_2.14.2">steelburn/dreamfactory_2.14.2</a></td><td>Community Version of DreamFactory from 2.14.2</td></tr>
 <tr><td colspan="2">steelburn/php-sp-api <em>(not found)</em></td></tr>
 <tr><td><a href="https://github.com/steelburn/ad">steelburn/ad</a></td><td>Making Active Directory jQuery-easy</td></tr>
-<tr><td colspan="2">steelburn/imap2rest <em>(not found)</em></td></tr>
+<tr><td><a href="https://github.com/steelburn/imap2rest">steelburn/imap2rest</a></td><td>IMAP to REST interface.</td></tr>
 </tbody></table>
 
 ## Dev Libraries
@@ -65,7 +65,7 @@ title: Repositories
 <tr><td><a href="https://github.com/steelburn/OpenAPI-Specification">steelburn/OpenAPI-Specification</a></td><td>The OpenAPI Specification Repository</td></tr>
 <tr><td><a href="https://github.com/steelburn/Complete-System-Design">steelburn/Complete-System-Design</a></td><td>This repository contains everything you need to become proficient in System Design</td></tr>
 <tr><td><a href="https://github.com/steelburn/awesome-software-quality">steelburn/awesome-software-quality</a></td><td>Software Quality Wiki</td></tr>
-<tr><td colspan="2">steelburn/iso27001-tool <em>(not found)</em></td></tr>
+<tr><td><a href="https://github.com/steelburn/iso27001-tool">steelburn/iso27001-tool</a></td><td>ISO 27001 Toolkit by QZ</td></tr>
 <tr><td><a href="https://github.com/steelburn/goblueprints">steelburn/goblueprints</a></td><td>Source code for Go Programming Blueprints</td></tr>
 <tr><td><a href="https://github.com/steelburn/IEEE">steelburn/IEEE</a></td><td>IEEE Standards Documents</td></tr>
 <tr><td><a href="https://github.com/steelburn/awesome-selfhosted">steelburn/awesome-selfhosted</a></td><td>A list of Free Software network services and web applications which can be hosted on your own servers</td></tr>
@@ -81,7 +81,7 @@ title: Repositories
 <tr><td colspan="2">steelburn/koding <em>(not found)</em></td></tr>
 <tr><td><a href="https://github.com/steelburn/deploy-code-server">steelburn/deploy-code-server</a></td><td>Deploy code-server to the cloud with a few clicks ☁️ 👨🏼‍💻</td></tr>
 <tr><td colspan="2">steelburn/healthchecker <em>(not found)</em></td></tr>
-<tr><td colspan="2">steelburn/jmeter-server <em>(not found)</em></td></tr>
+<tr><td><a href="https://github.com/steelburn/jmeter-server">steelburn/jmeter-server</a></td><td>Configuration and scripts for building jmeter server container</td></tr>
 <tr><td colspan="2">steelburn/nginx-with-letsencrypt <em>(not found)</em></td></tr>
 <tr><td colspan="2">steelburn/portainer-templates <em>(not found)</em></td></tr>
 <tr><td><a href="https://github.com/steelburn/gllb-load-balancer">steelburn/gllb-load-balancer</a></td><td>Generic Linux Load Balancer</td></tr>
@@ -138,10 +138,10 @@ title: Repositories
 <tbody>
 <tr><td colspan="2">steelburn/phan <em>(not found)</em></td></tr>
 <tr><td><a href="https://github.com/steelburn/code-server">steelburn/code-server</a></td><td>VS Code in the browser</td></tr>
-<tr><td colspan="2">steelburn/hoppscotch <em>(not found)</em></td></tr>
+<tr><td><a href="https://github.com/steelburn/hoppscotch">steelburn/hoppscotch</a></td><td>Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)</td></tr>
 <tr><td colspan="2">steelburn/penpot <em>(not found)</em></td></tr>
 <tr><td><a href="https://github.com/steelburn/automatic-api">steelburn/automatic-api</a></td><td>A list of software that turns your database into a REST/GraphQL API</td></tr>
-<tr><td colspan="2">steelburn/it-tools <em>(not found)</em></td></tr>
+<tr><td><a href="https://github.com/steelburn/it-tools">steelburn/it-tools</a></td><td>Collection of handy online tools for developers, with great UX. </td></tr>
 <tr><td colspan="2">steelburn/php-code-quality <em>(not found)</em></td></tr>
 <tr><td colspan="2">steelburn/phpchecker <em>(not found)</em></td></tr>
 <tr><td colspan="2">steelburn/windmill <em>(not found)</em></td></tr>
@@ -219,7 +219,7 @@ title: Repositories
 <tbody>
 <tr><td colspan="2">steelburn/penpots <em>(not found)</em></td></tr>
 <tr><td><a href="https://github.com/steelburn/AFFiNE">steelburn/AFFiNE</a></td><td>There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. </td></tr>
-<tr><td colspan="2">steelburn/icons <em>(not found)</em></td></tr>
+<tr><td><a href="https://github.com/steelburn/icons">steelburn/icons</a></td><td>Collection of icons and logos maintained by the selfh.st team</td></tr>
 <tr><td colspan="2">steelburn/starbase-80 <em>(not found)</em></td></tr>
 </tbody></table>
 
