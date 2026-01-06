@@ -383,4 +383,46 @@
   "html_url": "https://github.com/steelburn/gosearch",
   "description": "🔍 Search anyone's digital footprint across 300+ websites"
 }
+,
+{
+  "name": "hoppscotch",
+  "full_name": "steelburn/hoppscotch",
+  "html_url": "https://github.com/steelburn/hoppscotch",
+  "description": "Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)"
+}
+,
+{
+  "name": "icons",
+  "full_name": "steelburn/icons",
+  "html_url": "https://github.com/steelburn/icons",
+  "description": "Collection of icons and logos maintained by the selfh.st team"
+}
+,
+{
+  "name": "imap2rest",
+  "full_name": "steelburn/imap2rest",
+  "html_url": "https://github.com/steelburn/imap2rest",
+  "description": "IMAP to REST interface."
+}
+,
+{
+  "name": "iso27001-tool",
+  "full_name": "steelburn/iso27001-tool",
+  "html_url": "https://github.com/steelburn/iso27001-tool",
+  "description": "ISO 27001 Toolkit by QZ"
+}
+,
+{
+  "name": "it-tools",
+  "full_name": "steelburn/it-tools",
+  "html_url": "https://github.com/steelburn/it-tools",
+  "description": "Collection of handy online tools for developers, with great UX. "
+}
+,
+{
+  "name": "jmeter-server",
+  "full_name": "steelburn/jmeter-server",
+  "html_url": "https://github.com/steelburn/jmeter-server",
+  "description": "Configuration and scripts for building jmeter server container"
+}
 ]
