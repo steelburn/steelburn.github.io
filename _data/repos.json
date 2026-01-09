@@ -336,51 +336,86 @@
 }
 ,
 {
-  "name": "firecrawl",
-  "full_name": "steelburn/firecrawl",
-  "html_url": "https://github.com/steelburn/firecrawl",
-  "description": "🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API."
+  "name": "llama.cpp",
+  "full_name": "steelburn/llama.cpp",
+  "html_url": "https://github.com/steelburn/llama.cpp",
+  "description": "LLM inference in C/C++"
 }
 ,
 {
-  "name": "free-llm-api-resources",
-  "full_name": "steelburn/free-llm-api-resources",
-  "html_url": "https://github.com/steelburn/free-llm-api-resources",
-  "description": "A list of free LLM inference resources accessible via API."
+  "name": "mem0",
+  "full_name": "steelburn/mem0",
+  "html_url": "https://github.com/steelburn/mem0",
+  "description": "Memory for AI Agents; Announcing OpenMemory MCP - local and secure memory management."
 }
 ,
 {
-  "name": "free-programming-books",
-  "full_name": "steelburn/free-programming-books",
-  "html_url": "https://github.com/steelburn/free-programming-books",
-  "description": ":books: Freely available programming books"
+  "name": "miller",
+  "full_name": "steelburn/miller",
+  "html_url": "https://github.com/steelburn/miller",
+  "description": "Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON"
 }
 ,
 {
-  "name": "fusio-api",
-  "full_name": "steelburn/fusio-api",
-  "html_url": "https://github.com/steelburn/fusio-api",
-  "description": "Open source API management platform"
+  "name": "nuclei",
+  "full_name": "steelburn/nuclei",
+  "html_url": "https://github.com/steelburn/nuclei",
+  "description": "Fast and customizable vulnerability scanner based on simple YAML based DSL."
 }
 ,
 {
-  "name": "gllb-load-balancer",
-  "full_name": "steelburn/gllb-load-balancer",
-  "html_url": "https://github.com/steelburn/gllb-load-balancer",
-  "description": "Generic Linux Load Balancer"
+  "name": "openapi-directory",
+  "full_name": "steelburn/openapi-directory",
+  "html_url": "https://github.com/steelburn/openapi-directory",
+  "description": "🌐 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.0 format"
 }
 ,
 {
-  "name": "goblueprints",
-  "full_name": "steelburn/goblueprints",
-  "html_url": "https://github.com/steelburn/goblueprints",
-  "description": "Source code for Go Programming Blueprints"
+  "name": "php-code-quality",
+  "full_name": "steelburn/php-code-quality",
+  "html_url": "https://github.com/steelburn/php-code-quality",
+  "description": "Docker image containing multiple code quality tools for PHP (phpqatools and more)."
 }
 ,
 {
-  "name": "gosearch",
-  "full_name": "steelburn/gosearch",
-  "html_url": "https://github.com/steelburn/gosearch",
-  "description": "🔍 Search anyone's digital footprint across 300+ websites"
+  "name": "php-sp-api",
+  "full_name": "steelburn/php-sp-api",
+  "html_url": "https://github.com/steelburn/php-sp-api",
+  "description": "Single file PHP script that adds a REST API to a SQL database"
+}
+,
+{
+  "name": "portainer-templates",
+  "full_name": "steelburn/portainer-templates",
+  "html_url": "https://github.com/steelburn/portainer-templates",
+  "description": "Custom app templates for Portainer http://portainer.io"
+}
+,
+{
+  "name": "public-apis",
+  "full_name": "steelburn/public-apis",
+  "html_url": "https://github.com/steelburn/public-apis",
+  "description": "A collective list of free APIs"
+}
+,
+{
+  "name": "vapi",
+  "full_name": "steelburn/vapi",
+  "html_url": "https://github.com/steelburn/vapi",
+  "description": "vAPI is Vulnerable Adversely Programmed Interface which is Self-Hostable API that mimics OWASP API Top 10 scenarios through Exercises."
+}
+,
+{
+  "name": "vulnrepo",
+  "full_name": "steelburn/vulnrepo",
+  "html_url": "https://github.com/steelburn/vulnrepo",
+  "description": "VULNRΞPO - Free vulnerability report generator and repository end-to-end encrypted. Complete templates of issues, CWE, CVE, MITRE ATT&CK, PCI DSS, issues import Nmap/Nessus/Burp/OpenVAS/Bugcrowd/Trivy, Jira export, TXT/JSON/MARKDOWN/HTML/PDF report, attachments, automatic changelog, statistics, vulnerability management, methodologies and much more!"
+}
+,
+{
+  "name": "w3af",
+  "full_name": "steelburn/w3af",
+  "html_url": "https://github.com/steelburn/w3af",
+  "description": "w3af: web application attack and audit framework, the open source web vulnerability scanner."
 }
 ]
