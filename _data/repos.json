@@ -376,11 +376,4 @@
   "html_url": "https://github.com/steelburn/goblueprints",
   "description": "Source code for Go Programming Blueprints"
 }
-,
-{
-  "name": "gosearch",
-  "full_name": "steelburn/gosearch",
-  "html_url": "https://github.com/steelburn/gosearch",
-  "description": "🔍 Search anyone's digital footprint across 300+ websites"
-}
 ]
