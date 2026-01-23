@@ -11,7 +11,7 @@ title: Repositories
 <thead><tr><th>Repository</th><th>Description</th></tr></thead>
 <tbody>
 <tr><td><a href="https://github.com/steelburn/fusio-api">steelburn/fusio-api</a></td><td>Open source API management platform</td></tr>
-<tr><td colspan="2">steelburn/hoppscotch <em>(not found)</em></td></tr>
+<tr><td><a href="https://github.com/steelburn/hoppscotch">steelburn/hoppscotch</a></td><td>Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)</td></tr>
 <tr><td colspan="2">steelburn/stack-on-a-budget <em>(not found)</em></td></tr>
 <tr><td colspan="2">steelburn/public-api-lists <em>(not found)</em></td></tr>
 <tr><td colspan="2">steelburn/public-apis <em>(not found)</em></td></tr>
@@ -138,7 +138,7 @@ title: Repositories
 <tbody>
 <tr><td colspan="2">steelburn/phan <em>(not found)</em></td></tr>
 <tr><td><a href="https://github.com/steelburn/code-server">steelburn/code-server</a></td><td>VS Code in the browser</td></tr>
-<tr><td colspan="2">steelburn/hoppscotch <em>(not found)</em></td></tr>
+<tr><td><a href="https://github.com/steelburn/hoppscotch">steelburn/hoppscotch</a></td><td>Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)</td></tr>
 <tr><td colspan="2">steelburn/penpot <em>(not found)</em></td></tr>
 <tr><td><a href="https://github.com/steelburn/automatic-api">steelburn/automatic-api</a></td><td>A list of software that turns your database into a REST/GraphQL API</td></tr>
 <tr><td colspan="2">steelburn/it-tools <em>(not found)</em></td></tr>
