@@ -390,18 +390,4 @@
   "html_url": "https://github.com/steelburn/hoppscotch",
   "description": "Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)"
 }
-,
-{
-  "name": "icons",
-  "full_name": "steelburn/icons",
-  "html_url": "https://github.com/steelburn/icons",
-  "description": "Collection of icons and logos maintained by the selfh.st team"
-}
-,
-{
-  "name": "imap2rest",
-  "full_name": "steelburn/imap2rest",
-  "html_url": "https://github.com/steelburn/imap2rest",
-  "description": "IMAP to REST interface."
-}
 ]
