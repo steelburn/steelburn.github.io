@@ -219,7 +219,7 @@ title: Repositories
 <tbody>
 <tr><td colspan="2">steelburn/penpots <em>(not found)</em></td></tr>
 <tr><td><a href="https://github.com/steelburn/AFFiNE">steelburn/AFFiNE</a></td><td>There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. </td></tr>
-<tr><td colspan="2">steelburn/icons <em>(not found)</em></td></tr>
+<tr><td><a href="https://github.com/steelburn/icons">steelburn/icons</a></td><td>Collection of icons and logos maintained by the selfh.st team</td></tr>
 <tr><td colspan="2">steelburn/starbase-80 <em>(not found)</em></td></tr>
 </tbody></table>
 
