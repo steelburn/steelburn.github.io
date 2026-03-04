@@ -26,7 +26,7 @@ title: Repositories
 <tr><td><a href="https://github.com/steelburn/dreamfactory_2.14.2">steelburn/dreamfactory_2.14.2</a></td><td>Community Version of DreamFactory from 2.14.2</td></tr>
 <tr><td colspan="2">steelburn/php-sp-api <em>(not found)</em></td></tr>
 <tr><td><a href="https://github.com/steelburn/ad">steelburn/ad</a></td><td>Making Active Directory jQuery-easy</td></tr>
-<tr><td><a href="https://github.com/steelburn/imap2rest">steelburn/imap2rest</a></td><td>IMAP to REST interface.</td></tr>
+<tr><td colspan="2">steelburn/imap2rest <em>(not found)</em></td></tr>
 </tbody></table>
 
 ## Dev Libraries
