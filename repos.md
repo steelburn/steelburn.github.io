@@ -10,7 +10,7 @@ title: Repositories
 <table>
 <thead><tr><th>Repository</th><th>Description</th></tr></thead>
 <tbody>
-<tr><td><a href="https://github.com/steelburn/fusio-api">steelburn/fusio-api</a></td><td>Open source API management platform</td></tr>
+<tr><td colspan="2">steelburn/fusio-api <em>(not found)</em></td></tr>
 <tr><td colspan="2">steelburn/hoppscotch <em>(not found)</em></td></tr>
 <tr><td colspan="2">steelburn/stack-on-a-budget <em>(not found)</em></td></tr>
 <tr><td colspan="2">steelburn/public-api-lists <em>(not found)</em></td></tr>
@@ -58,7 +58,7 @@ title: Repositories
 <tr><td><a href="https://github.com/steelburn/ISO27001">steelburn/ISO27001</a></td><td>Useful templates and working document for implementing ISO 27001 - ISMS</td></tr>
 <tr><td><a href="https://github.com/steelburn/automatic-api">steelburn/automatic-api</a></td><td>A list of software that turns your database into a REST/GraphQL API</td></tr>
 <tr><td><a href="https://github.com/steelburn/build-your-own-x">steelburn/build-your-own-x</a></td><td>Master programming by recreating your favorite technologies from scratch.</td></tr>
-<tr><td><a href="https://github.com/steelburn/free-programming-books">steelburn/free-programming-books</a></td><td>:books: Freely available programming books</td></tr>
+<tr><td colspan="2">steelburn/free-programming-books <em>(not found)</em></td></tr>
 <tr><td><a href="https://github.com/steelburn/awesome-oss-alternatives">steelburn/awesome-oss-alternatives</a></td><td>Awesome list of open-source startup alternatives to well-known SaaS products 🚀</td></tr>
 <tr><td><a href="https://github.com/steelburn/emoji-cheat-sheet">steelburn/emoji-cheat-sheet</a></td><td>A markdown version emoji cheat sheet</td></tr>
 <tr><td colspan="2">steelburn/openapi-directory <em>(not found)</em></td></tr>
@@ -84,7 +84,7 @@ title: Repositories
 <tr><td colspan="2">steelburn/jmeter-server <em>(not found)</em></td></tr>
 <tr><td colspan="2">steelburn/nginx-with-letsencrypt <em>(not found)</em></td></tr>
 <tr><td colspan="2">steelburn/portainer-templates <em>(not found)</em></td></tr>
-<tr><td><a href="https://github.com/steelburn/gllb-load-balancer">steelburn/gllb-load-balancer</a></td><td>Generic Linux Load Balancer</td></tr>
+<tr><td colspan="2">steelburn/gllb-load-balancer <em>(not found)</em></td></tr>
 <tr><td colspan="2">steelburn/windmill <em>(not found)</em></td></tr>
 </tbody></table>
 
@@ -196,7 +196,7 @@ title: Repositories
 <tr><td><a href="https://github.com/steelburn/activepieces">steelburn/activepieces</a></td><td>AI Agents & MCPs & AI Workflow Automation • (280+ MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents</td></tr>
 <tr><td><a href="https://github.com/steelburn/LocalAI">steelburn/LocalAI</a></td><td>:robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P inference</td></tr>
 <tr><td><a href="https://github.com/steelburn/Flowise">steelburn/Flowise</a></td><td>Drag & drop UI to build your customized LLM flow</td></tr>
-<tr><td><a href="https://github.com/steelburn/free-llm-api-resources">steelburn/free-llm-api-resources</a></td><td>A list of free LLM inference resources accessible via API.</td></tr>
+<tr><td colspan="2">steelburn/free-llm-api-resources <em>(not found)</em></td></tr>
 <tr><td><a href="https://github.com/steelburn/botpress">steelburn/botpress</a></td><td>The open-source hub to build & deploy GPT/LLM Agents ⚡️</td></tr>
 <tr><td colspan="2">steelburn/open-notebook <em>(not found)</em></td></tr>
 <tr><td colspan="2">steelburn/quivr <em>(not found)</em></td></tr>
