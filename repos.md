@@ -110,7 +110,7 @@ title: Repositories
 <tr><td colspan="2">steelburn/rengine <em>(not found)</em></td></tr>
 <tr><td colspan="2">steelburn/nuclei <em>(not found)</em></td></tr>
 <tr><td colspan="2">steelburn/offsec-tools <em>(not found)</em></td></tr>
-<tr><td><a href="https://github.com/steelburn/faraday">steelburn/faraday</a></td><td>Open Source Vulnerability Management Platform</td></tr>
+<tr><td colspan="2">steelburn/faraday <em>(not found)</em></td></tr>
 <tr><td><a href="https://github.com/steelburn/BurpSuite-Professional-Latest">steelburn/BurpSuite-Professional-Latest</a></td><td>Burpsuite Professional v2024.* with License Key Generator</td></tr>
 <tr><td colspan="2">steelburn/w3af <em>(not found)</em></td></tr>
 <tr><td colspan="2">steelburn/vulnreport <em>(not found)</em></td></tr>
