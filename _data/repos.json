@@ -327,11 +327,4 @@
   "html_url": "https://github.com/steelburn/excel4node",
   "description": "Node module to allow for easy Excel file creation"
 }
-,
-{
-  "name": "faraday",
-  "full_name": "steelburn/faraday",
-  "html_url": "https://github.com/steelburn/faraday",
-  "description": "Open Source Vulnerability Management Platform"
-}
 ]
