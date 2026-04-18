@@ -264,4 +264,32 @@
   "html_url": "https://github.com/steelburn/crossfilter",
   "description": "Fast n-dimensional filtering and grouping of records."
 }
+,
+{
+  "name": "dbdiagram-oss-wrep",
+  "full_name": "steelburn/dbdiagram-oss-wrep",
+  "html_url": "https://github.com/steelburn/dbdiagram-oss-wrep",
+  "description": "Open-Source Implementation of the great dbdiagram.io"
+}
+,
+{
+  "name": "dc.js",
+  "full_name": "steelburn/dc.js",
+  "html_url": "https://github.com/steelburn/dc.js",
+  "description": "Multi-Dimensional charting built to work natively with crossfilter rendered with d3.js"
+}
+,
+{
+  "name": "deploy-code-server",
+  "full_name": "steelburn/deploy-code-server",
+  "html_url": "https://github.com/steelburn/deploy-code-server",
+  "description": "Deploy code-server to the cloud with a few clicks ☁️ 👨🏼‍💻"
+}
+,
+{
+  "name": "dify",
+  "full_name": "steelburn/dify",
+  "html_url": "https://github.com/steelburn/dify",
+  "description": "Production-ready platform for agentic workflow development."
+}
 ]
