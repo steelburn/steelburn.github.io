@@ -79,7 +79,7 @@ title: Repositories
 <tr><td><a href="https://github.com/steelburn/act">steelburn/act</a></td><td>Run your GitHub Actions locally 🚀</td></tr>
 <tr><td colspan="2">steelburn/nginx-proxy-manager <em>(not found)</em></td></tr>
 <tr><td colspan="2">steelburn/koding <em>(not found)</em></td></tr>
-<tr><td colspan="2">steelburn/deploy-code-server <em>(not found)</em></td></tr>
+<tr><td><a href="https://github.com/steelburn/deploy-code-server">steelburn/deploy-code-server</a></td><td>Deploy code-server to the cloud with a few clicks ☁️ 👨🏼‍💻</td></tr>
 <tr><td colspan="2">steelburn/healthchecker <em>(not found)</em></td></tr>
 <tr><td colspan="2">steelburn/jmeter-server <em>(not found)</em></td></tr>
 <tr><td colspan="2">steelburn/nginx-with-letsencrypt <em>(not found)</em></td></tr>
@@ -127,7 +127,7 @@ title: Repositories
 <tr><td colspan="2">steelburn/metabase <em>(not found)</em></td></tr>
 <tr><td colspan="2">steelburn/superset <em>(not found)</em></td></tr>
 <tr><td colspan="2">steelburn/redash <em>(not found)</em></td></tr>
-<tr><td colspan="2">steelburn/dc.js <em>(not found)</em></td></tr>
+<tr><td><a href="https://github.com/steelburn/dc.js">steelburn/dc.js</a></td><td>Multi-Dimensional charting built to work natively with crossfilter rendered with d3.js</td></tr>
 <tr><td colspan="2">steelburn/vis <em>(not found)</em></td></tr>
 </tbody></table>
 
@@ -161,9 +161,9 @@ title: Repositories
 <tr><td colspan="2">steelburn/metabase <em>(not found)</em></td></tr>
 <tr><td><a href="https://github.com/steelburn/crate">steelburn/crate</a></td><td>CrateDB is a distributed SQL database that makes it simple to store and analyze massive amounts of machine data in real-time. Built on top of Lucene.</td></tr>
 <tr><td colspan="2">steelburn/redash <em>(not found)</em></td></tr>
-<tr><td colspan="2">steelburn/dbdiagram-oss-wrep <em>(not found)</em></td></tr>
+<tr><td><a href="https://github.com/steelburn/dbdiagram-oss-wrep">steelburn/dbdiagram-oss-wrep</a></td><td>Open-Source Implementation of the great dbdiagram.io</td></tr>
 <tr><td colspan="2">steelburn/talend-open-studio <em>(not found)</em></td></tr>
-<tr><td colspan="2">steelburn/dc.js <em>(not found)</em></td></tr>
+<tr><td><a href="https://github.com/steelburn/dc.js">steelburn/dc.js</a></td><td>Multi-Dimensional charting built to work natively with crossfilter rendered with d3.js</td></tr>
 <tr><td colspan="2">steelburn/vis <em>(not found)</em></td></tr>
 <tr><td colspan="2">steelburn/xgenecloud <em>(not found)</em></td></tr>
 <tr><td colspan="2">steelburn/superset <em>(not found)</em></td></tr>
@@ -190,7 +190,7 @@ title: Repositories
 <tbody>
 <tr><td><a href="https://github.com/steelburn/AppFlowy">steelburn/AppFlowy</a></td><td>Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.</td></tr>
 <tr><td colspan="2">steelburn/mlflow <em>(not found)</em></td></tr>
-<tr><td colspan="2">steelburn/dify <em>(not found)</em></td></tr>
+<tr><td><a href="https://github.com/steelburn/dify">steelburn/dify</a></td><td>Production-ready platform for agentic workflow development.</td></tr>
 <tr><td colspan="2">steelburn/speaches <em>(not found)</em></td></tr>
 <tr><td colspan="2">steelburn/langflow <em>(not found)</em></td></tr>
 <tr><td><a href="https://github.com/steelburn/activepieces">steelburn/activepieces</a></td><td>AI Agents & MCPs & AI Workflow Automation • (280+ MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents</td></tr>
