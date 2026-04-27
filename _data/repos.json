@@ -565,25 +565,4 @@
   "html_url": "https://github.com/steelburn/php-code-quality",
   "description": "Docker image containing multiple code quality tools for PHP (phpqatools and more)."
 }
-,
-{
-  "name": "php-crud-api",
-  "full_name": "steelburn/php-crud-api",
-  "html_url": "https://github.com/steelburn/php-crud-api",
-  "description": "Single file PHP script that adds a REST API to a SQL database"
-}
-,
-{
-  "name": "php-sp-api",
-  "full_name": "steelburn/php-sp-api",
-  "html_url": "https://github.com/steelburn/php-sp-api",
-  "description": "Single file PHP script that adds a REST API to a SQL database"
-}
-,
-{
-  "name": "portainer-templates",
-  "full_name": "steelburn/portainer-templates",
-  "html_url": "https://github.com/steelburn/portainer-templates",
-  "description": "Custom app templates for Portainer http://portainer.io"
-}
 ]
