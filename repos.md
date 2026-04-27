@@ -17,14 +17,14 @@ title: Repositories
 <tr><td colspan="2">steelburn/public-apis <em>(not found)</em></td></tr>
 <tr><td><a href="https://github.com/steelburn/automatic-api">steelburn/automatic-api</a></td><td>A list of software that turns your database into a REST/GraphQL API</td></tr>
 <tr><td colspan="2">steelburn/tyk-api <em>(not found)</em></td></tr>
-<tr><td><a href="https://github.com/steelburn/php-crud-api">steelburn/php-crud-api</a></td><td>Single file PHP script that adds a REST API to a SQL database</td></tr>
+<tr><td colspan="2">steelburn/php-crud-api <em>(not found)</em></td></tr>
 <tr><td><a href="https://github.com/steelburn/openapi-directory">steelburn/openapi-directory</a></td><td>🌐 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.0 format</td></tr>
 <tr><td><a href="https://github.com/steelburn/addict">steelburn/addict</a></td><td>Get a full Active Directory REST API in 30 seconds</td></tr>
 <tr><td colspan="2">steelburn/sheets-api <em>(not found)</em></td></tr>
 <tr><td colspan="2">steelburn/crud-api <em>(not found)</em></td></tr>
 <tr><td colspan="2">steelburn/xgenecloud <em>(not found)</em></td></tr>
 <tr><td><a href="https://github.com/steelburn/dreamfactory_2.14.2">steelburn/dreamfactory_2.14.2</a></td><td>Community Version of DreamFactory from 2.14.2</td></tr>
-<tr><td><a href="https://github.com/steelburn/php-sp-api">steelburn/php-sp-api</a></td><td>Single file PHP script that adds a REST API to a SQL database</td></tr>
+<tr><td colspan="2">steelburn/php-sp-api <em>(not found)</em></td></tr>
 <tr><td><a href="https://github.com/steelburn/ad">steelburn/ad</a></td><td>Making Active Directory jQuery-easy</td></tr>
 <tr><td><a href="https://github.com/steelburn/imap2rest">steelburn/imap2rest</a></td><td>IMAP to REST interface.</td></tr>
 </tbody></table>
@@ -83,7 +83,7 @@ title: Repositories
 <tr><td colspan="2">steelburn/healthchecker <em>(not found)</em></td></tr>
 <tr><td><a href="https://github.com/steelburn/jmeter-server">steelburn/jmeter-server</a></td><td>Configuration and scripts for building jmeter server container</td></tr>
 <tr><td><a href="https://github.com/steelburn/nginx-with-letsencrypt">steelburn/nginx-with-letsencrypt</a></td><td>nginx docker image, recreated with LetsEncrypt ACME Certbot bundled in and working.</td></tr>
-<tr><td><a href="https://github.com/steelburn/portainer-templates">steelburn/portainer-templates</a></td><td>Custom app templates for Portainer http://portainer.io</td></tr>
+<tr><td colspan="2">steelburn/portainer-templates <em>(not found)</em></td></tr>
 <tr><td><a href="https://github.com/steelburn/gllb-load-balancer">steelburn/gllb-load-balancer</a></td><td>Generic Linux Load Balancer</td></tr>
 <tr><td colspan="2">steelburn/windmill <em>(not found)</em></td></tr>
 </tbody></table>
