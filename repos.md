@@ -10,23 +10,23 @@ title: Repositories
 <table>
 <thead><tr><th>Repository</th><th>Description</th></tr></thead>
 <tbody>
-<tr><td colspan="2">steelburn/fusio-api <em>(not found)</em></td></tr>
-<tr><td colspan="2">steelburn/hoppscotch <em>(not found)</em></td></tr>
-<tr><td colspan="2">steelburn/stack-on-a-budget <em>(not found)</em></td></tr>
+<tr><td><a href="https://github.com/steelburn/fusio-api">steelburn/fusio-api</a></td><td>Open source API management platform</td></tr>
+<tr><td><a href="https://github.com/steelburn/hoppscotch">steelburn/hoppscotch</a></td><td>Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)</td></tr>
+<tr><td><a href="https://github.com/steelburn/stack-on-a-budget">steelburn/stack-on-a-budget</a></td><td>A collection of services with great free tiers for developers on a budget. Sponsored by Mockoon, the best mock API tool. https://mockoon.com</td></tr>
 <tr><td colspan="2">steelburn/public-api-lists <em>(not found)</em></td></tr>
 <tr><td colspan="2">steelburn/public-apis <em>(not found)</em></td></tr>
 <tr><td><a href="https://github.com/steelburn/automatic-api">steelburn/automatic-api</a></td><td>A list of software that turns your database into a REST/GraphQL API</td></tr>
 <tr><td colspan="2">steelburn/tyk-api <em>(not found)</em></td></tr>
-<tr><td colspan="2">steelburn/php-crud-api <em>(not found)</em></td></tr>
+<tr><td><a href="https://github.com/steelburn/php-crud-api">steelburn/php-crud-api</a></td><td>Single file PHP script that adds a REST API to a SQL database</td></tr>
 <tr><td colspan="2">steelburn/openapi-directory <em>(not found)</em></td></tr>
 <tr><td><a href="https://github.com/steelburn/addict">steelburn/addict</a></td><td>Get a full Active Directory REST API in 30 seconds</td></tr>
 <tr><td colspan="2">steelburn/sheets-api <em>(not found)</em></td></tr>
 <tr><td colspan="2">steelburn/crud-api <em>(not found)</em></td></tr>
 <tr><td colspan="2">steelburn/xgenecloud <em>(not found)</em></td></tr>
 <tr><td><a href="https://github.com/steelburn/dreamfactory_2.14.2">steelburn/dreamfactory_2.14.2</a></td><td>Community Version of DreamFactory from 2.14.2</td></tr>
-<tr><td colspan="2">steelburn/php-sp-api <em>(not found)</em></td></tr>
+<tr><td><a href="https://github.com/steelburn/php-sp-api">steelburn/php-sp-api</a></td><td>Single file PHP script that adds a REST API to a SQL database</td></tr>
 <tr><td><a href="https://github.com/steelburn/ad">steelburn/ad</a></td><td>Making Active Directory jQuery-easy</td></tr>
-<tr><td colspan="2">steelburn/imap2rest <em>(not found)</em></td></tr>
+<tr><td><a href="https://github.com/steelburn/imap2rest">steelburn/imap2rest</a></td><td>IMAP to REST interface.</td></tr>
 </tbody></table>
 
 ## Dev Libraries
@@ -50,7 +50,7 @@ title: Repositories
 <table>
 <thead><tr><th>Repository</th><th>Description</th></tr></thead>
 <tbody>
-<tr><td colspan="2">steelburn/stack-on-a-budget <em>(not found)</em></td></tr>
+<tr><td><a href="https://github.com/steelburn/stack-on-a-budget">steelburn/stack-on-a-budget</a></td><td>A collection of services with great free tiers for developers on a budget. Sponsored by Mockoon, the best mock API tool. https://mockoon.com</td></tr>
 <tr><td><a href="https://github.com/steelburn/awesome-iam">steelburn/awesome-iam</a></td><td>👤 Identity and Access Management knowledge for cloud platforms</td></tr>
 <tr><td><a href="https://github.com/steelburn/Python-Algorithms">steelburn/Python-Algorithms</a></td><td>All Algorithms implemented in Python</td></tr>
 <tr><td colspan="2">steelburn/public-api-lists <em>(not found)</em></td></tr>
@@ -58,7 +58,7 @@ title: Repositories
 <tr><td><a href="https://github.com/steelburn/ISO27001">steelburn/ISO27001</a></td><td>Useful templates and working document for implementing ISO 27001 - ISMS</td></tr>
 <tr><td><a href="https://github.com/steelburn/automatic-api">steelburn/automatic-api</a></td><td>A list of software that turns your database into a REST/GraphQL API</td></tr>
 <tr><td><a href="https://github.com/steelburn/build-your-own-x">steelburn/build-your-own-x</a></td><td>Master programming by recreating your favorite technologies from scratch.</td></tr>
-<tr><td colspan="2">steelburn/free-programming-books <em>(not found)</em></td></tr>
+<tr><td><a href="https://github.com/steelburn/free-programming-books">steelburn/free-programming-books</a></td><td>:books: Freely available programming books</td></tr>
 <tr><td><a href="https://github.com/steelburn/awesome-oss-alternatives">steelburn/awesome-oss-alternatives</a></td><td>Awesome list of open-source startup alternatives to well-known SaaS products 🚀</td></tr>
 <tr><td><a href="https://github.com/steelburn/emoji-cheat-sheet">steelburn/emoji-cheat-sheet</a></td><td>A markdown version emoji cheat sheet</td></tr>
 <tr><td colspan="2">steelburn/openapi-directory <em>(not found)</em></td></tr>
@@ -66,7 +66,7 @@ title: Repositories
 <tr><td><a href="https://github.com/steelburn/Complete-System-Design">steelburn/Complete-System-Design</a></td><td>This repository contains everything you need to become proficient in System Design</td></tr>
 <tr><td><a href="https://github.com/steelburn/awesome-software-quality">steelburn/awesome-software-quality</a></td><td>Software Quality Wiki</td></tr>
 <tr><td colspan="2">steelburn/iso27001-tool <em>(not found)</em></td></tr>
-<tr><td colspan="2">steelburn/goblueprints <em>(not found)</em></td></tr>
+<tr><td><a href="https://github.com/steelburn/goblueprints">steelburn/goblueprints</a></td><td>Source code for Go Programming Blueprints</td></tr>
 <tr><td><a href="https://github.com/steelburn/IEEE">steelburn/IEEE</a></td><td>IEEE Standards Documents</td></tr>
 <tr><td><a href="https://github.com/steelburn/awesome-selfhosted">steelburn/awesome-selfhosted</a></td><td>A list of Free Software network services and web applications which can be hosted on your own servers</td></tr>
 </tbody></table>
@@ -82,9 +82,9 @@ title: Repositories
 <tr><td><a href="https://github.com/steelburn/deploy-code-server">steelburn/deploy-code-server</a></td><td>Deploy code-server to the cloud with a few clicks ☁️ 👨🏼‍💻</td></tr>
 <tr><td colspan="2">steelburn/healthchecker <em>(not found)</em></td></tr>
 <tr><td colspan="2">steelburn/jmeter-server <em>(not found)</em></td></tr>
-<tr><td colspan="2">steelburn/nginx-with-letsencrypt <em>(not found)</em></td></tr>
+<tr><td><a href="https://github.com/steelburn/nginx-with-letsencrypt">steelburn/nginx-with-letsencrypt</a></td><td>nginx docker image, recreated with LetsEncrypt ACME Certbot bundled in and working.</td></tr>
 <tr><td colspan="2">steelburn/portainer-templates <em>(not found)</em></td></tr>
-<tr><td colspan="2">steelburn/gllb-load-balancer <em>(not found)</em></td></tr>
+<tr><td><a href="https://github.com/steelburn/gllb-load-balancer">steelburn/gllb-load-balancer</a></td><td>Generic Linux Load Balancer</td></tr>
 <tr><td colspan="2">steelburn/windmill <em>(not found)</em></td></tr>
 </tbody></table>
 
@@ -100,21 +100,21 @@ title: Repositories
 <tr><td colspan="2">steelburn/reconmap <em>(not found)</em></td></tr>
 <tr><td><a href="https://github.com/steelburn/bunkerweb">steelburn/bunkerweb</a></td><td>🛡️ Make your web services secure by default !</td></tr>
 <tr><td><a href="https://github.com/steelburn/awesome-iam">steelburn/awesome-iam</a></td><td>👤 Identity and Access Management knowledge for cloud platforms</td></tr>
-<tr><td colspan="2">steelburn/vulnrepo <em>(not found)</em></td></tr>
-<tr><td colspan="2">steelburn/gosearch <em>(not found)</em></td></tr>
+<tr><td><a href="https://github.com/steelburn/vulnrepo">steelburn/vulnrepo</a></td><td>VULNRΞPO - Free vulnerability report generator and repository end-to-end encrypted. Complete templates of issues, CWE, CVE, MITRE ATT&CK, PCI DSS, issues import Nmap/Nessus/Burp/OpenVAS/Bugcrowd/Trivy, Jira export, TXT/JSON/MARKDOWN/HTML/PDF report, attachments, automatic changelog, statistics, vulnerability management, methodologies and much more!</td></tr>
+<tr><td><a href="https://github.com/steelburn/gosearch">steelburn/gosearch</a></td><td>🔍 Search anyone's digital footprint across 300+ websites</td></tr>
 <tr><td><a href="https://github.com/steelburn/arachni">steelburn/arachni</a></td><td>Web Application Security Scanner Framework</td></tr>
 <tr><td colspan="2">steelburn/nginx-proxy-manager <em>(not found)</em></td></tr>
-<tr><td colspan="2">steelburn/owtf <em>(not found)</em></td></tr>
+<tr><td><a href="https://github.com/steelburn/owtf">steelburn/owtf</a></td><td>Offensive Web Testing Framework (OWTF), is a framework which tries to unite great tools and make pen testing more efficient http://owtf.org https://twitter.com/owtfp</td></tr>
 <tr><td colspan="2">steelburn/vapi <em>(not found)</em></td></tr>
 <tr><td><a href="https://github.com/steelburn/MalwareSourceCode">steelburn/MalwareSourceCode</a></td><td>Collection of malware source code for a variety of platforms in an array of different programming languages.</td></tr>
 <tr><td colspan="2">steelburn/rengine <em>(not found)</em></td></tr>
-<tr><td colspan="2">steelburn/nuclei <em>(not found)</em></td></tr>
+<tr><td><a href="https://github.com/steelburn/nuclei">steelburn/nuclei</a></td><td>Fast and customizable vulnerability scanner based on simple YAML based DSL.</td></tr>
 <tr><td colspan="2">steelburn/offsec-tools <em>(not found)</em></td></tr>
 <tr><td><a href="https://github.com/steelburn/faraday">steelburn/faraday</a></td><td>Open Source Vulnerability Management Platform</td></tr>
 <tr><td><a href="https://github.com/steelburn/BurpSuite-Professional-Latest">steelburn/BurpSuite-Professional-Latest</a></td><td>Burpsuite Professional v2024.* with License Key Generator</td></tr>
 <tr><td colspan="2">steelburn/w3af <em>(not found)</em></td></tr>
 <tr><td colspan="2">steelburn/vulnreport <em>(not found)</em></td></tr>
-<tr><td colspan="2">steelburn/nginx-with-letsencrypt <em>(not found)</em></td></tr>
+<tr><td><a href="https://github.com/steelburn/nginx-with-letsencrypt">steelburn/nginx-with-letsencrypt</a></td><td>nginx docker image, recreated with LetsEncrypt ACME Certbot bundled in and working.</td></tr>
 </tbody></table>
 
 ## Business Intelligence
@@ -138,11 +138,11 @@ title: Repositories
 <tbody>
 <tr><td colspan="2">steelburn/phan <em>(not found)</em></td></tr>
 <tr><td><a href="https://github.com/steelburn/code-server">steelburn/code-server</a></td><td>VS Code in the browser</td></tr>
-<tr><td colspan="2">steelburn/hoppscotch <em>(not found)</em></td></tr>
+<tr><td><a href="https://github.com/steelburn/hoppscotch">steelburn/hoppscotch</a></td><td>Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)</td></tr>
 <tr><td colspan="2">steelburn/penpot <em>(not found)</em></td></tr>
 <tr><td><a href="https://github.com/steelburn/automatic-api">steelburn/automatic-api</a></td><td>A list of software that turns your database into a REST/GraphQL API</td></tr>
 <tr><td colspan="2">steelburn/it-tools <em>(not found)</em></td></tr>
-<tr><td colspan="2">steelburn/php-code-quality <em>(not found)</em></td></tr>
+<tr><td><a href="https://github.com/steelburn/php-code-quality">steelburn/php-code-quality</a></td><td>Docker image containing multiple code quality tools for PHP (phpqatools and more).</td></tr>
 <tr><td colspan="2">steelburn/phpchecker <em>(not found)</em></td></tr>
 <tr><td colspan="2">steelburn/windmill <em>(not found)</em></td></tr>
 </tbody></table>
@@ -153,7 +153,7 @@ title: Repositories
 <thead><tr><th>Repository</th><th>Description</th></tr></thead>
 <tbody>
 <tr><td><a href="https://github.com/steelburn/drawdb">steelburn/drawdb</a></td><td>Free, simple, and intuitive online database diagram editor and SQL generator.</td></tr>
-<tr><td colspan="2">steelburn/rclone <em>(not found)</em></td></tr>
+<tr><td><a href="https://github.com/steelburn/rclone">steelburn/rclone</a></td><td>"rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files</td></tr>
 <tr><td colspan="2">steelburn/lightdash <em>(not found)</em></td></tr>
 <tr><td colspan="2">steelburn/vega <em>(not found)</em></td></tr>
 <tr><td colspan="2">steelburn/teable <em>(not found)</em></td></tr>
@@ -177,10 +177,10 @@ title: Repositories
 <thead><tr><th>Repository</th><th>Description</th></tr></thead>
 <tbody>
 <tr><td><a href="https://github.com/steelburn/DeepNotes">steelburn/DeepNotes</a></td><td>End-to-end encrypted visual note-taking tool with deep page navigation. </td></tr>
-<tr><td colspan="2">steelburn/tuturbaca <em>(not found)</em></td></tr>
+<tr><td><a href="https://github.com/steelburn/tuturbaca">steelburn/tuturbaca</a></td><td>Alat alternatif untuk membantu kanak-kanak belajar membaca daripada pertuturan mereka sendiri.</td></tr>
 <tr><td><a href="https://github.com/steelburn/exam-testing-engine-vumingo">steelburn/exam-testing-engine-vumingo</a></td><td>Free  full version of exam testing engine vumingo</td></tr>
 <tr><td><a href="https://github.com/steelburn/AFFiNE">steelburn/AFFiNE</a></td><td>There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. </td></tr>
-<tr><td colspan="2">steelburn/starbase-80 <em>(not found)</em></td></tr>
+<tr><td><a href="https://github.com/steelburn/starbase-80">steelburn/starbase-80</a></td><td>A nice Docker homepage</td></tr>
 </tbody></table>
 
 ## AIOps
@@ -196,10 +196,10 @@ title: Repositories
 <tr><td><a href="https://github.com/steelburn/activepieces">steelburn/activepieces</a></td><td>AI Agents & MCPs & AI Workflow Automation • (280+ MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents</td></tr>
 <tr><td><a href="https://github.com/steelburn/LocalAI">steelburn/LocalAI</a></td><td>:robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P inference</td></tr>
 <tr><td><a href="https://github.com/steelburn/Flowise">steelburn/Flowise</a></td><td>Drag & drop UI to build your customized LLM flow</td></tr>
-<tr><td colspan="2">steelburn/free-llm-api-resources <em>(not found)</em></td></tr>
+<tr><td><a href="https://github.com/steelburn/free-llm-api-resources">steelburn/free-llm-api-resources</a></td><td>A list of free LLM inference resources accessible via API.</td></tr>
 <tr><td><a href="https://github.com/steelburn/botpress">steelburn/botpress</a></td><td>The open-source hub to build & deploy GPT/LLM Agents ⚡️</td></tr>
 <tr><td colspan="2">steelburn/open-notebook <em>(not found)</em></td></tr>
-<tr><td colspan="2">steelburn/quivr <em>(not found)</em></td></tr>
+<tr><td><a href="https://github.com/steelburn/quivr">steelburn/quivr</a></td><td>🧠 Dump all your files and chat with it using your Generative AI Second Brain using LLMs ( GPT 3.5/4, Private, Anthropic, VertexAI ) & Embeddings 🧠 </td></tr>
 <tr><td><a href="https://github.com/steelburn/firecrawl">steelburn/firecrawl</a></td><td>🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.</td></tr>
 <tr><td colspan="2">steelburn/llama.cpp <em>(not found)</em></td></tr>
 <tr><td><a href="https://github.com/steelburn/Zonos">steelburn/Zonos</a></td><td>Zonos-v0.1 is a leading open-weight text-to-speech model trained on more than 200k hours of varied multilingual speech, delivering expressiveness and quality on par with—or even surpassing—top TTS providers.</td></tr>
@@ -219,8 +219,8 @@ title: Repositories
 <tbody>
 <tr><td colspan="2">steelburn/penpots <em>(not found)</em></td></tr>
 <tr><td><a href="https://github.com/steelburn/AFFiNE">steelburn/AFFiNE</a></td><td>There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. </td></tr>
-<tr><td colspan="2">steelburn/icons <em>(not found)</em></td></tr>
-<tr><td colspan="2">steelburn/starbase-80 <em>(not found)</em></td></tr>
+<tr><td><a href="https://github.com/steelburn/icons">steelburn/icons</a></td><td>Collection of icons and logos maintained by the selfh.st team</td></tr>
+<tr><td><a href="https://github.com/steelburn/starbase-80">steelburn/starbase-80</a></td><td>A nice Docker homepage</td></tr>
 </tbody></table>
 
 ## Unlisted Repositories
