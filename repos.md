@@ -66,7 +66,7 @@ title: Repositories
 <tr><td><a href="https://github.com/steelburn/Complete-System-Design">steelburn/Complete-System-Design</a></td><td>This repository contains everything you need to become proficient in System Design</td></tr>
 <tr><td><a href="https://github.com/steelburn/awesome-software-quality">steelburn/awesome-software-quality</a></td><td>Software Quality Wiki</td></tr>
 <tr><td colspan="2">steelburn/iso27001-tool <em>(not found)</em></td></tr>
-<tr><td colspan="2">steelburn/goblueprints <em>(not found)</em></td></tr>
+<tr><td><a href="https://github.com/steelburn/goblueprints">steelburn/goblueprints</a></td><td>Source code for Go Programming Blueprints</td></tr>
 <tr><td><a href="https://github.com/steelburn/IEEE">steelburn/IEEE</a></td><td>IEEE Standards Documents</td></tr>
 <tr><td><a href="https://github.com/steelburn/awesome-selfhosted">steelburn/awesome-selfhosted</a></td><td>A list of Free Software network services and web applications which can be hosted on your own servers</td></tr>
 </tbody></table>
@@ -101,7 +101,7 @@ title: Repositories
 <tr><td><a href="https://github.com/steelburn/bunkerweb">steelburn/bunkerweb</a></td><td>🛡️ Make your web services secure by default !</td></tr>
 <tr><td><a href="https://github.com/steelburn/awesome-iam">steelburn/awesome-iam</a></td><td>👤 Identity and Access Management knowledge for cloud platforms</td></tr>
 <tr><td colspan="2">steelburn/vulnrepo <em>(not found)</em></td></tr>
-<tr><td colspan="2">steelburn/gosearch <em>(not found)</em></td></tr>
+<tr><td><a href="https://github.com/steelburn/gosearch">steelburn/gosearch</a></td><td>🔍 Search anyone's digital footprint across 300+ websites</td></tr>
 <tr><td><a href="https://github.com/steelburn/arachni">steelburn/arachni</a></td><td>Web Application Security Scanner Framework</td></tr>
 <tr><td colspan="2">steelburn/nginx-proxy-manager <em>(not found)</em></td></tr>
 <tr><td colspan="2">steelburn/owtf <em>(not found)</em></td></tr>
