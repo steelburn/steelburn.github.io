@@ -383,4 +383,11 @@
   "html_url": "https://github.com/steelburn/gosearch",
   "description": "🔍 Search anyone's digital footprint across 300+ websites"
 }
+,
+{
+  "name": "hoppscotch",
+  "full_name": "steelburn/hoppscotch",
+  "html_url": "https://github.com/steelburn/hoppscotch",
+  "description": "Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)"
+}
 ]
