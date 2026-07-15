@@ -427,24 +427,10 @@
 }
 ,
 {
-  "name": "koding",
-  "full_name": "steelburn/koding",
-  "html_url": "https://github.com/steelburn/koding",
-  "description": "The Simplest Way to Manage Your Entire Dev Infrastructure!"
-}
-,
-{
   "name": "langflow",
   "full_name": "steelburn/langflow",
   "html_url": "https://github.com/steelburn/langflow",
   "description": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows."
-}
-,
-{
-  "name": "lightdash",
-  "full_name": "steelburn/lightdash",
-  "html_url": "https://github.com/steelburn/lightdash",
-  "description": "Self-serve BI to 10x your data team ⚡️"
 }
 ,
 {
@@ -455,38 +441,10 @@
 }
 ,
 {
-  "name": "local-llm",
-  "full_name": "steelburn/local-llm",
-  "html_url": "https://github.com/steelburn/local-llm",
-  "description": "null"
-}
-,
-{
-  "name": "melody",
-  "full_name": "steelburn/melody",
-  "html_url": "https://github.com/steelburn/melody",
-  "description": "Melody is a library for building JavaScript web applications."
-}
-,
-{
   "name": "mem0",
   "full_name": "steelburn/mem0",
   "html_url": "https://github.com/steelburn/mem0",
   "description": "Memory for AI Agents; Announcing OpenMemory MCP - local and secure memory management."
-}
-,
-{
-  "name": "metabase",
-  "full_name": "steelburn/metabase",
-  "html_url": "https://github.com/steelburn/metabase",
-  "description": "The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_chart:"
-}
-,
-{
-  "name": "miller",
-  "full_name": "steelburn/miller",
-  "html_url": "https://github.com/steelburn/miller",
-  "description": "Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON"
 }
 ,
 {
@@ -504,13 +462,6 @@
 }
 ,
 {
-  "name": "nginx-with-letsencrypt",
-  "full_name": "steelburn/nginx-with-letsencrypt",
-  "html_url": "https://github.com/steelburn/nginx-with-letsencrypt",
-  "description": "nginx docker image, recreated with LetsEncrypt ACME Certbot bundled in and working."
-}
-,
-{
   "name": "nuclei",
   "full_name": "steelburn/nuclei",
   "html_url": "https://github.com/steelburn/nuclei",
@@ -525,27 +476,6 @@
 }
 ,
 {
-  "name": "open-notebook",
-  "full_name": "steelburn/open-notebook",
-  "html_url": "https://github.com/steelburn/open-notebook",
-  "description": "An Open Source implementation of Notebook LM with more flexibility and features"
-}
-,
-{
-  "name": "openapi-directory",
-  "full_name": "steelburn/openapi-directory",
-  "html_url": "https://github.com/steelburn/openapi-directory",
-  "description": "🌐 Wikipedia for Web APIs. Directory of REST API definitions in OpenAPI 2.0/3.0 format"
-}
-,
-{
-  "name": "owtf",
-  "full_name": "steelburn/owtf",
-  "html_url": "https://github.com/steelburn/owtf",
-  "description": "Offensive Web Testing Framework (OWTF), is a framework which tries to unite great tools and make pen testing more efficient http://owtf.org https://twitter.com/owtfp"
-}
-,
-{
   "name": "penpot",
   "full_name": "steelburn/penpot",
   "html_url": "https://github.com/steelburn/penpot",
@@ -553,24 +483,10 @@
 }
 ,
 {
-  "name": "phan",
-  "full_name": "steelburn/phan",
-  "html_url": "https://github.com/steelburn/phan",
-  "description": "Phan is a static analyzer for PHP. Phan prefers to avoid false-positives and attempts to prove incorrectness rather than correctness."
-}
-,
-{
   "name": "php-code-quality",
   "full_name": "steelburn/php-code-quality",
   "html_url": "https://github.com/steelburn/php-code-quality",
   "description": "Docker image containing multiple code quality tools for PHP (phpqatools and more)."
-}
-,
-{
-  "name": "php-crud-api",
-  "full_name": "steelburn/php-crud-api",
-  "html_url": "https://github.com/steelburn/php-crud-api",
-  "description": "Single file PHP script that adds a REST API to a SQL database"
 }
 ,
 {
@@ -602,16 +518,72 @@
 }
 ,
 {
-  "name": "quivr",
-  "full_name": "steelburn/quivr",
-  "html_url": "https://github.com/steelburn/quivr",
-  "description": "🧠 Dump all your files and chat with it using your Generative AI Second Brain using LLMs ( GPT 3.5/4, Private, Anthropic, VertexAI ) & Embeddings 🧠 "
+  "name": "redash",
+  "full_name": "steelburn/redash",
+  "html_url": "https://github.com/steelburn/redash",
+  "description": "Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data."
 }
 ,
 {
-  "name": "rclone",
-  "full_name": "steelburn/rclone",
-  "html_url": "https://github.com/steelburn/rclone",
-  "description": "\"rsync for cloud storage\" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files"
+  "name": "rengine",
+  "full_name": "steelburn/rengine",
+  "html_url": "https://github.com/steelburn/rengine",
+  "description": "reNgine is an automated reconnaissance framework for web applications with a focus on highly configurable streamlined recon process via Engines, recon data correlation and organization, continuous monitoring, backed by a database, and simple yet intuitive User Interface. reNgine makes it easy for penetration testers to gather reconnaissance."
+}
+,
+{
+  "name": "stablediffusion",
+  "full_name": "steelburn/stablediffusion",
+  "html_url": "https://github.com/steelburn/stablediffusion",
+  "description": "High-Resolution Image Synthesis with Latent Diffusion Models"
+}
+,
+{
+  "name": "sysreptor",
+  "full_name": "steelburn/sysreptor",
+  "html_url": "https://github.com/steelburn/sysreptor",
+  "description": "A customizable and powerful penetration testing reporting platform for offensive security professionals. Simplify, customize, and automate your pentest reports with ease."
+}
+,
+{
+  "name": "talend-open-studio",
+  "full_name": "steelburn/talend-open-studio",
+  "html_url": "https://github.com/steelburn/talend-open-studio",
+  "description": "null"
+}
+,
+{
+  "name": "teable",
+  "full_name": "steelburn/teable",
+  "html_url": "https://github.com/steelburn/teable",
+  "description": "✨ The Next Gen Airtable Alternative: No-Code Postgres"
+}
+,
+{
+  "name": "tyk-api",
+  "full_name": "steelburn/tyk-api",
+  "html_url": "https://github.com/steelburn/tyk-api",
+  "description": "Tyk Open Source API Gateway written in Go, supporting REST, GraphQL, TCP and gRPC protocols"
+}
+,
+{
+  "name": "vapi",
+  "full_name": "steelburn/vapi",
+  "html_url": "https://github.com/steelburn/vapi",
+  "description": "vAPI is Vulnerable Adversely Programmed Interface which is Self-Hostable API that mimics OWASP API Top 10 scenarios through Exercises."
+}
+,
+{
+  "name": "vulnrepo",
+  "full_name": "steelburn/vulnrepo",
+  "html_url": "https://github.com/steelburn/vulnrepo",
+  "description": "VULNRΞPO - Free vulnerability report generator and repository end-to-end encrypted. Complete templates of issues, CWE, CVE, MITRE ATT&CK, PCI DSS, issues import Nmap/Nessus/Burp/OpenVAS/Bugcrowd/Trivy, Jira export, TXT/JSON/MARKDOWN/HTML/PDF report, attachments, automatic changelog, statistics, vulnerability management, methodologies and much more!"
+}
+,
+{
+  "name": "vulnreport",
+  "full_name": "steelburn/vulnreport",
+  "html_url": "https://github.com/steelburn/vulnreport",
+  "description": "Open-source pentesting management and automation platform by Salesforce Product Security"
 }
 ]
