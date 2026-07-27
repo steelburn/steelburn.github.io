@@ -178,7 +178,7 @@ title: Repositories
 <tbody>
 <tr><td><a href="https://github.com/steelburn/DeepNotes">steelburn/DeepNotes</a></td><td>End-to-end encrypted visual note-taking tool with deep page navigation. </td></tr>
 <tr><td colspan="2">steelburn/tuturbaca <em>(not found)</em></td></tr>
-<tr><td colspan="2">steelburn/exam-testing-engine-vumingo <em>(not found)</em></td></tr>
+<tr><td><a href="https://github.com/steelburn/exam-testing-engine-vumingo">steelburn/exam-testing-engine-vumingo</a></td><td>Free  full version of exam testing engine vumingo</td></tr>
 <tr><td><a href="https://github.com/steelburn/AFFiNE">steelburn/AFFiNE</a></td><td>There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. </td></tr>
 <tr><td colspan="2">steelburn/starbase-80 <em>(not found)</em></td></tr>
 </tbody></table>
