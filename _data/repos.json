@@ -399,23 +399,37 @@
 }
 ,
 {
-  "name": "imap2rest",
-  "full_name": "steelburn/imap2rest",
-  "html_url": "https://github.com/steelburn/imap2rest",
-  "description": "IMAP to REST interface."
+  "name": "php-sp-api",
+  "full_name": "steelburn/php-sp-api",
+  "html_url": "https://github.com/steelburn/php-sp-api",
+  "description": "Single file PHP script that adds a REST API to a SQL database"
 }
 ,
 {
-  "name": "windmill",
-  "full_name": "steelburn/windmill",
-  "html_url": "https://github.com/steelburn/windmill",
-  "description": "Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal."
+  "name": "portainer-templates",
+  "full_name": "steelburn/portainer-templates",
+  "html_url": "https://github.com/steelburn/portainer-templates",
+  "description": "Custom app templates for Portainer http://portainer.io"
 }
 ,
 {
-  "name": "xgenecloud",
-  "full_name": "steelburn/xgenecloud",
-  "html_url": "https://github.com/steelburn/xgenecloud",
-  "description": "•:fire: •:fire: •:fire: • Instantly generate REST & GraphQL APIs on any Database (Supports : MySQL, PostgreSQL, MsSQL, SQLite, MariaDB & Aurora)"
+  "name": "public-api-lists",
+  "full_name": "steelburn/public-api-lists",
+  "html_url": "https://github.com/steelburn/public-api-lists",
+  "description": "A collective list of free APIs for use in software and web development 🚀"
+}
+,
+{
+  "name": "public-apis",
+  "full_name": "steelburn/public-apis",
+  "html_url": "https://github.com/steelburn/public-apis",
+  "description": "A collective list of free APIs"
+}
+,
+{
+  "name": "quivr",
+  "full_name": "steelburn/quivr",
+  "html_url": "https://github.com/steelburn/quivr",
+  "description": "🧠 Dump all your files and chat with it using your Generative AI Second Brain using LLMs ( GPT 3.5/4, Private, Anthropic, VertexAI ) & Embeddings 🧠 "
 }
 ]
