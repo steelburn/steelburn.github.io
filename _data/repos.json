@@ -390,46 +390,4 @@
   "html_url": "https://github.com/steelburn/hoppscotch",
   "description": "Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)"
 }
-,
-{
-  "name": "icons",
-  "full_name": "steelburn/icons",
-  "html_url": "https://github.com/steelburn/icons",
-  "description": "Collection of icons and logos maintained by the selfh.st team"
-}
-,
-{
-  "name": "php-sp-api",
-  "full_name": "steelburn/php-sp-api",
-  "html_url": "https://github.com/steelburn/php-sp-api",
-  "description": "Single file PHP script that adds a REST API to a SQL database"
-}
-,
-{
-  "name": "portainer-templates",
-  "full_name": "steelburn/portainer-templates",
-  "html_url": "https://github.com/steelburn/portainer-templates",
-  "description": "Custom app templates for Portainer http://portainer.io"
-}
-,
-{
-  "name": "public-api-lists",
-  "full_name": "steelburn/public-api-lists",
-  "html_url": "https://github.com/steelburn/public-api-lists",
-  "description": "A collective list of free APIs for use in software and web development 🚀"
-}
-,
-{
-  "name": "public-apis",
-  "full_name": "steelburn/public-apis",
-  "html_url": "https://github.com/steelburn/public-apis",
-  "description": "A collective list of free APIs"
-}
-,
-{
-  "name": "quivr",
-  "full_name": "steelburn/quivr",
-  "html_url": "https://github.com/steelburn/quivr",
-  "description": "🧠 Dump all your files and chat with it using your Generative AI Second Brain using LLMs ( GPT 3.5/4, Private, Anthropic, VertexAI ) & Embeddings 🧠 "
-}
 ]
