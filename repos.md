@@ -13,8 +13,8 @@ title: Repositories
 <tr><td><a href="https://github.com/steelburn/fusio-api">steelburn/fusio-api</a></td><td>Open source API management platform</td></tr>
 <tr><td><a href="https://github.com/steelburn/hoppscotch">steelburn/hoppscotch</a></td><td>Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)</td></tr>
 <tr><td colspan="2">steelburn/stack-on-a-budget <em>(not found)</em></td></tr>
-<tr><td><a href="https://github.com/steelburn/public-api-lists">steelburn/public-api-lists</a></td><td>A collective list of free APIs for use in software and web development 🚀</td></tr>
-<tr><td><a href="https://github.com/steelburn/public-apis">steelburn/public-apis</a></td><td>A collective list of free APIs</td></tr>
+<tr><td colspan="2">steelburn/public-api-lists <em>(not found)</em></td></tr>
+<tr><td colspan="2">steelburn/public-apis <em>(not found)</em></td></tr>
 <tr><td><a href="https://github.com/steelburn/automatic-api">steelburn/automatic-api</a></td><td>A list of software that turns your database into a REST/GraphQL API</td></tr>
 <tr><td colspan="2">steelburn/tyk-api <em>(not found)</em></td></tr>
 <tr><td colspan="2">steelburn/php-crud-api <em>(not found)</em></td></tr>
@@ -24,7 +24,7 @@ title: Repositories
 <tr><td colspan="2">steelburn/crud-api <em>(not found)</em></td></tr>
 <tr><td colspan="2">steelburn/xgenecloud <em>(not found)</em></td></tr>
 <tr><td><a href="https://github.com/steelburn/dreamfactory_2.14.2">steelburn/dreamfactory_2.14.2</a></td><td>Community Version of DreamFactory from 2.14.2</td></tr>
-<tr><td><a href="https://github.com/steelburn/php-sp-api">steelburn/php-sp-api</a></td><td>Single file PHP script that adds a REST API to a SQL database</td></tr>
+<tr><td colspan="2">steelburn/php-sp-api <em>(not found)</em></td></tr>
 <tr><td><a href="https://github.com/steelburn/ad">steelburn/ad</a></td><td>Making Active Directory jQuery-easy</td></tr>
 <tr><td colspan="2">steelburn/imap2rest <em>(not found)</em></td></tr>
 </tbody></table>
@@ -53,8 +53,8 @@ title: Repositories
 <tr><td colspan="2">steelburn/stack-on-a-budget <em>(not found)</em></td></tr>
 <tr><td><a href="https://github.com/steelburn/awesome-iam">steelburn/awesome-iam</a></td><td>👤 Identity and Access Management knowledge for cloud platforms</td></tr>
 <tr><td><a href="https://github.com/steelburn/Python-Algorithms">steelburn/Python-Algorithms</a></td><td>All Algorithms implemented in Python</td></tr>
-<tr><td><a href="https://github.com/steelburn/public-api-lists">steelburn/public-api-lists</a></td><td>A collective list of free APIs for use in software and web development 🚀</td></tr>
-<tr><td><a href="https://github.com/steelburn/public-apis">steelburn/public-apis</a></td><td>A collective list of free APIs</td></tr>
+<tr><td colspan="2">steelburn/public-api-lists <em>(not found)</em></td></tr>
+<tr><td colspan="2">steelburn/public-apis <em>(not found)</em></td></tr>
 <tr><td><a href="https://github.com/steelburn/ISO27001">steelburn/ISO27001</a></td><td>Useful templates and working document for implementing ISO 27001 - ISMS</td></tr>
 <tr><td><a href="https://github.com/steelburn/automatic-api">steelburn/automatic-api</a></td><td>A list of software that turns your database into a REST/GraphQL API</td></tr>
 <tr><td><a href="https://github.com/steelburn/build-your-own-x">steelburn/build-your-own-x</a></td><td>Master programming by recreating your favorite technologies from scratch.</td></tr>
@@ -83,7 +83,7 @@ title: Repositories
 <tr><td colspan="2">steelburn/healthchecker <em>(not found)</em></td></tr>
 <tr><td colspan="2">steelburn/jmeter-server <em>(not found)</em></td></tr>
 <tr><td colspan="2">steelburn/nginx-with-letsencrypt <em>(not found)</em></td></tr>
-<tr><td><a href="https://github.com/steelburn/portainer-templates">steelburn/portainer-templates</a></td><td>Custom app templates for Portainer http://portainer.io</td></tr>
+<tr><td colspan="2">steelburn/portainer-templates <em>(not found)</em></td></tr>
 <tr><td><a href="https://github.com/steelburn/gllb-load-balancer">steelburn/gllb-load-balancer</a></td><td>Generic Linux Load Balancer</td></tr>
 <tr><td colspan="2">steelburn/windmill <em>(not found)</em></td></tr>
 </tbody></table>
@@ -199,7 +199,7 @@ title: Repositories
 <tr><td><a href="https://github.com/steelburn/free-llm-api-resources">steelburn/free-llm-api-resources</a></td><td>A list of free LLM inference resources accessible via API.</td></tr>
 <tr><td><a href="https://github.com/steelburn/botpress">steelburn/botpress</a></td><td>The open-source hub to build & deploy GPT/LLM Agents ⚡️</td></tr>
 <tr><td colspan="2">steelburn/open-notebook <em>(not found)</em></td></tr>
-<tr><td><a href="https://github.com/steelburn/quivr">steelburn/quivr</a></td><td>🧠 Dump all your files and chat with it using your Generative AI Second Brain using LLMs ( GPT 3.5/4, Private, Anthropic, VertexAI ) & Embeddings 🧠 </td></tr>
+<tr><td colspan="2">steelburn/quivr <em>(not found)</em></td></tr>
 <tr><td><a href="https://github.com/steelburn/firecrawl">steelburn/firecrawl</a></td><td>🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.</td></tr>
 <tr><td colspan="2">steelburn/llama.cpp <em>(not found)</em></td></tr>
 <tr><td><a href="https://github.com/steelburn/Zonos">steelburn/Zonos</a></td><td>Zonos-v0.1 is a leading open-weight text-to-speech model trained on more than 200k hours of varied multilingual speech, delivering expressiveness and quality on par with—or even surpassing—top TTS providers.</td></tr>
@@ -219,7 +219,7 @@ title: Repositories
 <tbody>
 <tr><td colspan="2">steelburn/penpots <em>(not found)</em></td></tr>
 <tr><td><a href="https://github.com/steelburn/AFFiNE">steelburn/AFFiNE</a></td><td>There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. </td></tr>
-<tr><td><a href="https://github.com/steelburn/icons">steelburn/icons</a></td><td>Collection of icons and logos maintained by the selfh.st team</td></tr>
+<tr><td colspan="2">steelburn/icons <em>(not found)</em></td></tr>
 <tr><td colspan="2">steelburn/starbase-80 <em>(not found)</em></td></tr>
 </tbody></table>
 
