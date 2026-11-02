@@ -11,7 +11,7 @@ title: Repositories
 <thead><tr><th>Repository</th><th>Description</th></tr></thead>
 <tbody>
 <tr><td><a href="https://github.com/steelburn/fusio-api">steelburn/fusio-api</a></td><td>Open source API management platform</td></tr>
-<tr><td><a href="https://github.com/steelburn/hoppscotch">steelburn/hoppscotch</a></td><td>Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)</td></tr>
+<tr><td colspan="2">steelburn/hoppscotch <em>(not found)</em></td></tr>
 <tr><td colspan="2">steelburn/stack-on-a-budget <em>(not found)</em></td></tr>
 <tr><td colspan="2">steelburn/public-api-lists <em>(not found)</em></td></tr>
 <tr><td colspan="2">steelburn/public-apis <em>(not found)</em></td></tr>
@@ -26,7 +26,7 @@ title: Repositories
 <tr><td><a href="https://github.com/steelburn/dreamfactory_2.14.2">steelburn/dreamfactory_2.14.2</a></td><td>Community Version of DreamFactory from 2.14.2</td></tr>
 <tr><td colspan="2">steelburn/php-sp-api <em>(not found)</em></td></tr>
 <tr><td><a href="https://github.com/steelburn/ad">steelburn/ad</a></td><td>Making Active Directory jQuery-easy</td></tr>
-<tr><td><a href="https://github.com/steelburn/imap2rest">steelburn/imap2rest</a></td><td>IMAP to REST interface.</td></tr>
+<tr><td colspan="2">steelburn/imap2rest <em>(not found)</em></td></tr>
 </tbody></table>
 
 ## Dev Libraries
@@ -138,7 +138,7 @@ title: Repositories
 <tbody>
 <tr><td colspan="2">steelburn/phan <em>(not found)</em></td></tr>
 <tr><td><a href="https://github.com/steelburn/code-server">steelburn/code-server</a></td><td>VS Code in the browser</td></tr>
-<tr><td><a href="https://github.com/steelburn/hoppscotch">steelburn/hoppscotch</a></td><td>Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)</td></tr>
+<tr><td colspan="2">steelburn/hoppscotch <em>(not found)</em></td></tr>
 <tr><td colspan="2">steelburn/penpot <em>(not found)</em></td></tr>
 <tr><td><a href="https://github.com/steelburn/automatic-api">steelburn/automatic-api</a></td><td>A list of software that turns your database into a REST/GraphQL API</td></tr>
 <tr><td colspan="2">steelburn/it-tools <em>(not found)</em></td></tr>
@@ -219,7 +219,7 @@ title: Repositories
 <tbody>
 <tr><td colspan="2">steelburn/penpots <em>(not found)</em></td></tr>
 <tr><td><a href="https://github.com/steelburn/AFFiNE">steelburn/AFFiNE</a></td><td>There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. </td></tr>
-<tr><td><a href="https://github.com/steelburn/icons">steelburn/icons</a></td><td>Collection of icons and logos maintained by the selfh.st team</td></tr>
+<tr><td colspan="2">steelburn/icons <em>(not found)</em></td></tr>
 <tr><td colspan="2">steelburn/starbase-80 <em>(not found)</em></td></tr>
 </tbody></table>
 
