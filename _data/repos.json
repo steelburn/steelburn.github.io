@@ -5,25 +5,4 @@
   "html_url": "https://github.com/steelburn/gllb-load-balancer",
   "description": "Generic Linux Load Balancer"
 }
-,
-{
-  "name": "jmeter-server",
-  "full_name": "steelburn/jmeter-server",
-  "html_url": "https://github.com/steelburn/jmeter-server",
-  "description": "Configuration and scripts for building jmeter server container"
-}
-,
-{
-  "name": "nginx-with-letsencrypt",
-  "full_name": "steelburn/nginx-with-letsencrypt",
-  "html_url": "https://github.com/steelburn/nginx-with-letsencrypt",
-  "description": "nginx docker image, recreated with LetsEncrypt ACME Certbot bundled in and working."
-}
-,
-{
-  "name": "portainer-templates",
-  "full_name": "steelburn/portainer-templates",
-  "html_url": "https://github.com/steelburn/portainer-templates",
-  "description": "Custom app templates for Portainer http://portainer.io"
-}
 ]
