@@ -81,9 +81,9 @@ title: Repositories
 <tr><td colspan="2">steelburn/koding <em>(not found)</em></td></tr>
 <tr><td colspan="2">steelburn/deploy-code-server <em>(not found)</em></td></tr>
 <tr><td colspan="2">steelburn/healthchecker <em>(not found)</em></td></tr>
-<tr><td><a href="https://github.com/steelburn/jmeter-server">steelburn/jmeter-server</a></td><td>Configuration and scripts for building jmeter server container</td></tr>
-<tr><td><a href="https://github.com/steelburn/nginx-with-letsencrypt">steelburn/nginx-with-letsencrypt</a></td><td>nginx docker image, recreated with LetsEncrypt ACME Certbot bundled in and working.</td></tr>
-<tr><td><a href="https://github.com/steelburn/portainer-templates">steelburn/portainer-templates</a></td><td>Custom app templates for Portainer http://portainer.io</td></tr>
+<tr><td colspan="2">steelburn/jmeter-server <em>(not found)</em></td></tr>
+<tr><td colspan="2">steelburn/nginx-with-letsencrypt <em>(not found)</em></td></tr>
+<tr><td colspan="2">steelburn/portainer-templates <em>(not found)</em></td></tr>
 <tr><td><a href="https://github.com/steelburn/gllb-load-balancer">steelburn/gllb-load-balancer</a></td><td>Generic Linux Load Balancer</td></tr>
 <tr><td colspan="2">steelburn/windmill <em>(not found)</em></td></tr>
 </tbody></table>
@@ -114,7 +114,7 @@ title: Repositories
 <tr><td colspan="2">steelburn/BurpSuite-Professional-Latest <em>(not found)</em></td></tr>
 <tr><td colspan="2">steelburn/w3af <em>(not found)</em></td></tr>
 <tr><td colspan="2">steelburn/vulnreport <em>(not found)</em></td></tr>
-<tr><td><a href="https://github.com/steelburn/nginx-with-letsencrypt">steelburn/nginx-with-letsencrypt</a></td><td>nginx docker image, recreated with LetsEncrypt ACME Certbot bundled in and working.</td></tr>
+<tr><td colspan="2">steelburn/nginx-with-letsencrypt <em>(not found)</em></td></tr>
 </tbody></table>
 
 ## Business Intelligence
