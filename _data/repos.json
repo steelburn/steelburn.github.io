@@ -5,18 +5,4 @@
   "html_url": "https://github.com/steelburn/gllb-load-balancer",
   "description": "Generic Linux Load Balancer"
 }
-,
-{
-  "name": "imap2rest",
-  "full_name": "steelburn/imap2rest",
-  "html_url": "https://github.com/steelburn/imap2rest",
-  "description": "IMAP to REST interface."
-}
-,
-{
-  "name": "portainer-templates",
-  "full_name": "steelburn/portainer-templates",
-  "html_url": "https://github.com/steelburn/portainer-templates",
-  "description": "Custom app templates for Portainer http://portainer.io"
-}
 ]
