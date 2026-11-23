@@ -26,7 +26,7 @@ title: Repositories
 <tr><td colspan="2">steelburn/dreamfactory_2.14.2 <em>(not found)</em></td></tr>
 <tr><td colspan="2">steelburn/php-sp-api <em>(not found)</em></td></tr>
 <tr><td colspan="2">steelburn/ad <em>(not found)</em></td></tr>
-<tr><td colspan="2">steelburn/imap2rest <em>(not found)</em></td></tr>
+<tr><td><a href="https://github.com/steelburn/imap2rest">steelburn/imap2rest</a></td><td>IMAP to REST interface.</td></tr>
 </tbody></table>
 
 ## Dev Libraries
